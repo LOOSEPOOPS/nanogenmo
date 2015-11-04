@@ -1,57 +1,179 @@
----
-title: Something
-subtitle: 'about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing'
-genre: verse
-
-id: music-433
-toc: "Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing"
-
-dedication: '[Randall](https://xkcd.com/1199/)'
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 18
-    next:
-    - title: Riptide of memory
-      link: riptide_memory
-    - title: About the author
-      link: about-the-author
-    prev:
-    - title: The Moon is drowning
-      link: moon-drowning
-    - title: The Sixteenth Chapel
-      link: sixteenth-chapel
-...
-
-| Silence lies underneath us all in the same way
-| [the Nile has a river underneath ten times as large][nile]
-| (although this is an urban legend, apparently).
-
-| So underneath [truth][] or legend, flowing by
-| the feel of their own [silence][], move the stars:
-| silence lies underneath us all in the same way.
-
-| [John Cage][433], I think, understood this: the way
-| that, in a silent room, one still hears the nerves
-| (although this is an urban legend, apparently),
-
-| or the heart, which I find more easily
-| believable: there simply is no way that, by and large,
-| silence lies underneath us all in the same way.
-
-| There must be different silences, because we
-| have different [songs][] to drown them out, different gods
-| (although these are urban legends, apparently).
-
-| But is not all [sound one sound][]?  You and I
-| are two faces to the same head, the same body.
-| Silence lies underneath us all in the same way---
-| although this is an urban legend, apparently.
-
-[433]: https://www.youtube.com/watch?feature=player_detailpage&v=zY7UK-6aaNA#t=39
-[truth]: phone.html
-[silence]: nothing-is-ever-over.html
-[songs]: swansong.html
-[sound one sound]: swansong-alt.html
-[nile]: http://members.authorsguild.net/svobodni/resonance_80307.htm "Personals"
+33
+4
+a
+a
+about
+all
+all
+all
+all
+all
+all
+although
+although
+although
+although
+an
+an
+an
+and
+and
+apparently
+apparently
+apparently
+apparently
+are
+are
+as
+bands
+be
+be
+because
+being
+believable
+body
+but
+by
+by
+cage
+different
+different
+different
+drown
+easily
+faces
+feel
+find
+flowing
+gods
+happen
+has
+have
+head
+hears
+heart
+i
+i
+i
+in
+in
+in
+in
+in
+in
+is
+is
+is
+is
+is
+john
+large
+large
+legend
+legend
+legend
+legend
+legends
+lies
+lies
+lies
+lies
+more
+move
+music
+must
+nerves
+nile
+no
+not
+of
+of
+one
+one
+or
+or
+other
+out
+own
+performances
+places
+playing
+river
+room
+same
+same
+same
+same
+same
+same
+silence
+silence
+silence
+silence
+silence
+silences
+silent
+simply
+so
+something
+songs
+sound
+sound
+stars
+still
+ten
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+their
+them
+there
+there
+these
+think
+this
+this
+this
+this
+times
+to
+to
+to
+truth
+two
+underneath
+underneath
+underneath
+underneath
+underneath
+underneath
+understood
+urban
+urban
+urban
+urban
+us
+us
+us
+us
+way
+way
+way
+way
+way
+way
+we
+where
+which
+you

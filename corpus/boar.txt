@@ -1,42 +1,100 @@
----
-title: The boar
-genre: verse
-
-id: boar
-toc: "The boar"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 8
-    prev:
-    - title: The ocean overflows with camels
-      link: theoceanoverflowswithcamels
-    next:
-    - title: Dead man
-      link: deadman
-...
-
-| Now the ticking clocks scare me.
-| The [empty][] rooms, clock towers, belfries;
-| I am terrified by them all.
-
-| I really used to enjoy going to church,
-| singing in the choir, listening to the sermon.
-| Now the chairs squeal like dying pigs---
-
-| It was the boar that did it.
-| [Fifteen feet][] from me that night
-| in the grass, rooting for God
-| knows what, finding me instead.
-
-| I ran, not knowing where or how,
-| not looking for his pursuit of me.
-| I ran to God's front door, found
-| it locked, found the [house][] empty
-
-| with a note saying, "Condemned."
-
-[empty]: mountain.html
-[Fifteen feet]: telemarketer.html
-[house]: i-am.html
+a
+all
+am
+belfries
+boar
+boar
+by
+chairs
+choir
+church
+clock
+clocks
+condemned
+did
+door
+dying
+empty
+empty
+enjoy
+feet
+fifteen
+finding
+for
+for
+found
+found
+from
+front
+god
+god
+going
+grass
+his
+house
+how
+i
+i
+i
+i
+in
+in
+instead
+it
+it
+it
+knowing
+knows
+like
+listening
+locked
+looking
+me
+me
+me
+me
+night
+not
+not
+note
+now
+now
+of
+or
+pigs
+pursuit
+ran
+ran
+really
+rooms
+rooting
+s
+saying
+scare
+sermon
+singing
+squeal
+terrified
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+ticking
+to
+to
+to
+to
+towers
+used
+was
+what
+where
+with

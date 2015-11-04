@@ -1,39 +1,170 @@
----
-title: Time looks up to the sky
-genre: verse
-
-id: time-looks-up-to-the-sky
-toc: "Time looks up to the sky"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| I wish I'd kissed you when I had the chance.
-| Your face hovering there, so near to mine,
-| your mouth pursed---what word was it you pronounced?
-
-| When I think about you, [something in my pants][]
-| tightens, and my thoughts run, and I realize
-| I should've kissed you when I had the chance.
-
-| I want that moment never to be past
-| like Keats's lovers on the grecian urn:
-| his mouth pursed, her figure turned to pronounce
-
-| her hips in ways that are not feminist.
-| But time strolls mildly on, not glancing at my
-| wish to kiss you when I had the chance,
-
-| whispered like a [beggar to a prince][]
-| outside his palace: time looks up to the sky,
-| purses his lips, and hears what I pronounce
-
-| but pays it little mind.  If he would just
-| turn back, bend down, and follow my design,
-| I would have kissed you when I had the chance,
-| as your mouth pursed and you pronounced goodbye.
-
-[something in my pants]: howithappened.html
-[beggar to a prince]: about-the-author.html
+a
+a
+about
+and
+and
+and
+and
+and
+are
+as
+at
+back
+be
+beggar
+bend
+but
+but
+chance
+chance
+chance
+chance
+design
+down
+face
+feminist
+figure
+follow
+glancing
+goodbye
+grecian
+had
+had
+had
+had
+have
+have
+he
+hears
+her
+her
+hips
+his
+his
+his
+hovering
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+if
+in
+in
+it
+it
+just
+keats
+kiss
+kissed
+kissed
+kissed
+like
+like
+lips
+little
+looks
+looks
+lovers
+mildly
+mind
+mine
+moment
+mouth
+mouth
+mouth
+my
+my
+my
+my
+near
+never
+not
+not
+on
+on
+outside
+palace
+pants
+past
+pays
+prince
+pronounce
+pronounce
+pronounced
+pronounced
+pursed
+pursed
+pursed
+purses
+realize
+run
+s
+should
+sky
+sky
+so
+something
+strolls
+that
+that
+the
+the
+the
+the
+the
+the
+the
+there
+think
+thoughts
+tightens
+time
+time
+time
+to
+to
+to
+to
+to
+to
+to
+turn
+turned
+up
+up
+urn
+want
+was
+ways
+what
+what
+when
+when
+when
+when
+when
+whispered
+wish
+wish
+word
+would
+would
+would
+you
+you
+you
+you
+you
+you
+you
+your
+your
+your

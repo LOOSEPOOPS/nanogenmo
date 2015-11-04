@@ -1,59 +1,242 @@
----
-title: Riptide of memory
-genre: verse
-
-id: riptide_memory
-toc: "Riptide of memory"
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 16
-    next:
-    - title: About the author
-      link: about-the-author
-    - title: The Sixteenth Chapel
-      link: sixteenth-chapel
-    prev:
-    - title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing
-      link: music-433
-    - title: I think it's you (but it's not)
-      link: i-think-its-you
-...
-
-| Inside of my memory, the poem is another memory.
-| The air up here is thin, but the wind blows harder
-| than anywhere else I know.  It threatens to rip
-| my body away, like [an angel of death][], to the stars.
-
-| In Arizona, I thought I would forget the rain,
-| forget its sound on a roof like a hard wind, forget
-| its smell like a far away ocean.  Luckily for me
-| it rains here.  Luckily, because I forget too easily.
-
-| In a dream, [my father is caught by a riptide][] off-shore.
-| He's pulled far out, far enough that the shoreline's
-| a dim line in his [memory][] on the horizon.  I can see him
-| swimming, hand over hand, pulling his small weight
-
-| back to land.  I see him as [another shipwreck][] victim,
-| coughing sand and seawater, beard woven with seaweed.
-| I see him lying there a long time.  I see all this
-| as he tells me the story, years later, the riptide
-
-| only a [ghost][] in his memory, I only a child falling
-| asleep.  My mother's making mayonnaise rolls
-| in the kitchen, a recipe I'll send for years later,
-| in Arizona, in the monsoon season, when my thirst
-
-| pulls me back home, my memory's lonesome twinkle
-| like [stars above the mountains][].  I'll send for it
-| and try to make them, but at this altitude they'll
-| crumble into dust like desert air, like a memory.
-
-[an angel of death]: angeltoabraham.html
-[my father is caught by a riptide]: father.html
-[memory]: ouroboros_memory.html
-[another shipwreck]: shipwright.html
-[ghost]: one-hundred-lines.html
-[stars above the mountains]: finding-the-lion.html
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+above
+air
+air
+all
+altitude
+an
+and
+and
+angel
+another
+another
+anywhere
+arizona
+arizona
+as
+as
+asleep
+at
+away
+away
+back
+back
+beard
+because
+blows
+body
+but
+but
+by
+can
+caught
+child
+coughing
+crumble
+death
+desert
+dim
+dream
+dust
+easily
+else
+enough
+falling
+far
+far
+far
+father
+for
+for
+for
+forget
+forget
+forget
+forget
+ghost
+hand
+hand
+hard
+harder
+he
+he
+here
+here
+him
+him
+him
+his
+his
+his
+home
+horizon
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+in
+in
+in
+in
+in
+in
+in
+inside
+into
+is
+is
+is
+it
+it
+it
+its
+its
+kitchen
+know
+land
+later
+later
+like
+like
+like
+like
+like
+like
+line
+lonesome
+long
+luckily
+luckily
+lying
+make
+making
+mayonnaise
+me
+me
+me
+memory
+memory
+memory
+memory
+memory
+memory
+memory
+monsoon
+mother
+mountains
+my
+my
+my
+my
+my
+my
+ocean
+of
+of
+of
+off-shore
+on
+on
+only
+only
+out
+over
+poem
+pulled
+pulling
+pulls
+rain
+rains
+recipe
+rip
+riptide
+riptide
+riptide
+rolls
+roof
+s
+s
+s
+s
+sand
+season
+seawater
+seaweed
+see
+see
+see
+see
+send
+send
+shipwreck
+shoreline
+small
+smell
+sound
+stars
+stars
+story
+swimming
+tells
+than
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+there
+they
+thin
+thirst
+this
+this
+thought
+threatens
+time
+to
+to
+to
+to
+too
+try
+twinkle
+up
+victim
+weight
+when
+will
+will
+will
+wind
+wind
+with
+would
+woven
+years
+years

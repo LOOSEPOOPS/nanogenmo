@@ -1,41 +1,175 @@
----
-title: I am
-genre: verse
-
-id: i-am
-toc: "I am"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 13
-    prev:
-    - title: On formal poetry
-      link: onformalpoetry
-    next:
-    - title: How it happened
-      link: howithappened
-...
-
-| I am a great pillar of [white smoke][].
-| I am Lot's nameless wife encased in salt.
-| I am the wound on Christ's back as he moans
-| with the pounding of a hammer on his wrist.
-| I am the nail that holds my house together.
-| It is a strong house, built on a good foundation.
-| In the winter, it is warm and crawling things
-| cannot get in.  This house will never burn down.
-| It is the house that I built, with my body
-| and with my strength.  I am the only one who lives
-| here.  I am both father and mother to a race
-| of [dust motes that worship me as a god][].  I have
-| monuments built daily in my honor in dark
-| corners around the house.  I destroy all of them
-| before I go to bed, but in the morning
-| there are still more.  I don't think I know
-| where all of them are.  I [don't think][not think] I can get
-| to all of them anymore.  There are too many.
-
-[white smoke]: deathstrumpet.html
-[not think]: howithappened.html
-[dust motes that worship me as a god]: plant.html
+a
+a
+a
+a
+a
+a
+all
+all
+all
+am
+am
+am
+am
+am
+am
+am
+and
+and
+and
+anymore
+are
+are
+are
+around
+as
+as
+back
+bed
+before
+body
+both
+built
+built
+built
+burn
+but
+can
+cannot
+christ
+corners
+crawling
+daily
+dark
+destroy
+do
+do
+down
+dust
+encased
+father
+foundation
+get
+get
+go
+god
+good
+great
+hammer
+have
+he
+here
+his
+holds
+honor
+house
+house
+house
+house
+house
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+in
+in
+in
+in
+in
+in
+is
+is
+is
+it
+it
+it
+know
+lives
+lot
+many
+me
+moans
+monuments
+more
+morning
+motes
+mother
+my
+my
+my
+my
+nail
+nameless
+never
+not
+not
+of
+of
+of
+of
+of
+of
+on
+on
+on
+one
+only
+pillar
+pounding
+race
+s
+s
+salt
+smoke
+still
+strength
+strong
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+them
+them
+them
+there
+there
+things
+think
+think
+this
+to
+to
+to
+together
+too
+warm
+where
+white
+who
+wife
+will
+winter
+with
+with
+with
+worship
+wound
+wrist

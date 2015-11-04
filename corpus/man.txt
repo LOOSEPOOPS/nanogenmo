@@ -1,54 +1,247 @@
----
-title: Man
-genre: prose
-
-id: man
-toc: "Man"
-
-ekphrastic:
-    image: tbedemugshot.jpg
-    title: This man refused to open his eyes
-    link: 'http://collection.hht.net.au/firsthhtpictures/fullRecordPicture.jsp?recnoListAttr=recnoList&recno=31230'
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 22
-    next:
-    - title: Snow
-      link: snow
-    - title: Notes
-      link: notes
-    prev:
-    - title: Cereal
-      link: cereal
-    - title: Leg
-      link: leg
-...
-
-_THIS MAN REFUSED TO OPEN HIS EYES_
-
-Paul read this on an old mugshot in the library.
-He had taken the [bus][] into town to check out a few books on woodworking and got distracted by the True Crime section.
-He found this mugshot in a book titled _Crooks like Us_ that was published in Sydney.
-He liked how cities were named after women, or how women were named after cities, whichever was true.
-
-The man in the picture's eyes were tightly shut, as though he'd just come into the brightness of day after being dark inside for a long time.
-His head was tilted up and slightly to the right.
-He was wearing a short light tie with hash marks, and a pinstripe suit.
-Paul wished the [photograph][] was in color.
-He was standing in front of a plain brown wall covered in fabric.
-
-The man's eyes were not so tightly shut as Paul first thought.
-His eyebrows lifted away from the eyes, giving the man a bemused look.
-His mouth was slightly opened in what seemed to Paul like a grin.
-This was accentuated by the man's ears, which were large.
-Paul wasn't sure why the ears made the man look happier.
-He wondered what crime he had committed.
-
-Above the man's head was written [_T. BEDE.22.11.28 / 203 A_.][emilia]
-_THIS MAN REFUSED TO OPEN HIS EYES_ was written over his suit, directly below his ribcage.
-
-[emilia]: http://emiliaphillips.com/books/signaletics/
-[bus]: boy_bus.html
-[photograph]: about-the-author.html
+11
+203
+22
+28
+a
+a
+a
+a
+a
+a
+a
+a
+a
+above
+accentuated
+after
+after
+after
+an
+and
+and
+and
+as
+as
+away
+bede
+being
+below
+bemused
+book
+books
+brightness
+brown
+bus
+by
+by
+check
+cities
+cities
+color
+come
+committed
+covered
+crime
+crime
+crooks
+dark
+day
+directly
+distracted
+ears
+ears
+eyebrows
+eyes
+eyes
+eyes
+eyes
+eyes
+fabric
+few
+first
+for
+found
+from
+front
+giving
+got
+grin
+had
+had
+happier
+hash
+he
+he
+he
+he
+he
+he
+he
+he
+head
+head
+his
+his
+his
+his
+his
+his
+his
+how
+how
+in
+in
+in
+in
+in
+in
+in
+in
+inside
+into
+into
+just
+large
+library
+lifted
+light
+like
+like
+liked
+long
+look
+look
+made
+man
+man
+man
+man
+man
+man
+man
+man
+man
+marks
+mouth
+mugshot
+mugshot
+named
+named
+not
+not
+of
+of
+old
+on
+on
+open
+open
+opened
+or
+out
+over
+paul
+paul
+paul
+paul
+paul
+photograph
+picture
+pinstripe
+plain
+published
+read
+refused
+refused
+ribcage
+right
+s
+s
+s
+s
+section
+seemed
+short
+shut
+shut
+slightly
+slightly
+so
+standing
+suit
+suit
+sure
+sydney
+t
+taken
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+this
+this
+this
+this
+this
+though
+thought
+tie
+tightly
+tightly
+tilted
+time
+titled
+to
+to
+to
+to
+to
+town
+true
+true
+up
+us
+wall
+was
+was
+was
+was
+was
+was
+was
+was
+was
+was
+was
+wearing
+were
+were
+were
+were
+were
+what
+what
+which
+whichever
+why
+wished
+with
+women
+women
+wondered
+woodworking
+would
+written
+written

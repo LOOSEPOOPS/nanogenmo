@@ -1,49 +1,220 @@
----
-title: Stump
-genre: prose
-
-id: stump
-toc: "Stump"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 34
-    next:
-    - title: Early
-      link: early
-    - title: Swear
-      link: swear
-    prev:
-    - title: Joke
-      link: joke
-    - title: Stagnant
-      link: stagnant
-...
-
-He walked into the woods for the first time in months.
-It was a bright summer day but under the canopy of leaves it was cool and quiet and twilight.
-[There was no sound but his footsteps, his breathing.][]
-Instead of an axe, his right hand clutched his notebook.
-His left was in his pocket.
-A pencil perched behind his ear.
-
-He walked aimlessly until coming over a short rise he saw a stump.
-He recognized his handiwork in the way the stump made a kind of chair back---flat until the axe had gone through far enough, then a frayed edge like a torn page.
-Paul walked over to the stump and sat down.
-
-He looked up and tried to find a pattern in the placement of the trees.
-There was none.
-They grew randomly, beginning nowhere and ending in the same place.
-[A squirrel][] ran down one and up another for no reason.
-He opened his notebook and took his pencil from his ear but could think of nothing to write.
-
-A crow called hoarsely to another, something important.
-Paul looked up but could not see the black bird in the [leaves of the trees][].
-He looked back down to the cream-colored pages of his notebook.
-
-He was surprised that he'd written _YOU CANNOT DISCOVER ART_.
-
-[There was no sound but his footsteps, his breathing.]: music-433.html
-[A squirrel]: squirrel.html
-[leaves of the trees]: death-zone.html
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+aimlessly
+an
+and
+and
+and
+and
+and
+and
+and
+another
+another
+art
+axe
+axe
+back
+back
+beginning
+behind
+bird
+black
+breathing
+bright
+but
+but
+but
+but
+called
+cannot
+canopy
+chair
+clutched
+coming
+cool
+could
+could
+cream-colored
+crow
+day
+discover
+down
+down
+down
+ear
+ear
+edge
+ending
+enough
+far
+find
+first
+flat
+footsteps
+for
+for
+frayed
+from
+gone
+grew
+had
+hand
+handiwork
+he
+he
+he
+he
+he
+he
+he
+he
+he
+his
+his
+his
+his
+his
+his
+his
+his
+his
+his
+his
+his
+hoarsely
+important
+in
+in
+in
+in
+in
+in
+instead
+into
+it
+it
+kind
+leaves
+leaves
+left
+like
+looked
+looked
+looked
+made
+months
+no
+no
+none
+not
+notebook
+notebook
+notebook
+nothing
+nowhere
+of
+of
+of
+of
+of
+of
+of
+one
+opened
+over
+over
+page
+pages
+pattern
+paul
+paul
+pencil
+pencil
+perched
+place
+placement
+pocket
+quiet
+ran
+randomly
+reason
+recognized
+right
+rise
+same
+sat
+saw
+see
+short
+something
+sound
+squirrel
+stump
+stump
+stump
+stump
+summer
+surprised
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+then
+there
+there
+they
+think
+through
+time
+to
+to
+to
+to
+to
+took
+torn
+trees
+trees
+tried
+twilight
+under
+until
+until
+up
+up
+up
+walked
+walked
+walked
+was
+was
+was
+was
+was
+was
+way
+woods
+would
+write
+written
+you

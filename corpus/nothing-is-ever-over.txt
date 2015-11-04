@@ -1,32 +1,98 @@
----
-title: Nothing is ever over
-genre: verse
-
-id: nothing-is-ever-over
-toc: "Nothing is ever over"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| [Nothing is ever over][]; nothing
-| is ever even begun.  The foundation
-| hasn't been laid; how can we hope
-| to put in the plumbing?  The bed
-| is unmade, not even made; the wood
-| [hasn't been cleft from the tree][];
-| the seed hasn't been cast
-| out of water and growth and sun,
-| which itself hasn't started shining.
-| The cock has never stopped crowing
-| because he never started.  Peter
-| [betrays us again][] and again with
-| silence.  Christ wakes up at night,
-| [choking from a bad dream][], wrists
-| aching from a dreamt, torturous pain.
-
-[choking from a bad dream]: in-bed.html
-[Nothing is ever over]: no-nothing.html
-[hasn't been cleft from the tree]: axe.html
-[betrays us again]: spittle.html
+a
+a
+aching
+again
+again
+and
+and
+and
+at
+bad
+because
+bed
+been
+been
+been
+begun
+betrays
+can
+cast
+choking
+christ
+cleft
+cock
+crowing
+dream
+dreamt
+even
+even
+ever
+ever
+ever
+foundation
+from
+from
+from
+growth
+has
+has
+has
+has
+has
+he
+hope
+how
+in
+is
+is
+is
+is
+itself
+laid
+made
+never
+never
+night
+not
+not
+not
+not
+not
+nothing
+nothing
+nothing
+of
+out
+over
+over
+pain
+peter
+plumbing
+put
+seed
+shining
+silence
+started
+started
+stopped
+sun
+the
+the
+the
+the
+the
+the
+the
+to
+torturous
+tree
+unmade
+up
+us
+wakes
+water
+we
+which
+with
+wood
+wrists

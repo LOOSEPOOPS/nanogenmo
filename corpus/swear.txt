@@ -1,64 +1,244 @@
----
-title: Swear
-genre: prose
-
-id: swear
-toc: "Swear"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 25
-    next:
-    - title: Options
-      link: options
-    - title: Tapestry
-      link: tapestry
-    prev:
-    - title: Reports
-      link: reports
-    - title: Stump
-      link: stump
-...
-
-> [EVERYTHING CHANGES OR EVERYTHING STAYS THE SAME][]
->
-> First, a history: I was writing my
-> thoughts in a book.  I got a typewriter
-> and typing things in a book
-> became impossible.  I began typing
-> on 4x6 notecards.  I ran out of
-> ribbon in my typewriter.  I wrote
-> on the 4x6 notecards.  I bought a
-> new ribbon and new notecards.  Now
-> again I am typing on notecards.
->
-> What have I been typing?
-> Thoughts, impressions maybe, a log
-> of changes to my mental state.  I
-> waited long enough and I began
-> recording them in the same way.  If
-> I wait longer the ribbon will run
-> out again and I'll write again, on
-> notecards or in my book.  The same
-> thoughts in different bodies.
->
-> That's what it means, "Every
-> thing changes or everything stays
-> the same."  It might as well be
-> "and."  Local differences add up to
-> global identities.  It's a [hoop][],
-> right?  And we keep going around
-> and we think it's flat but it's
-> round like the Earth.
-
-
-Paul pushed his chair away from the [Writing Desk][] and stared at the notecard.
-He stood up, knocked his head on the lightbulb, swore.
-He pulled the notecard from his typewriter and crumpled it up with his left hand.
-With his right hand he reached in his pocket and pulled out his cigarettes.
-He put one in his mouth, threw the paper in the corner, grabbed his axe, went out into the woods.
-
-[EVERYTHING CHANGES OR EVERYTHING STAYS THE SAME]: planks.html
-[hoop]: ourobors_memory.html
-[Writing Desk]: finding-the-lion.html
+4x6
+4x6
+a
+a
+a
+a
+a
+a
+a
+add
+again
+again
+again
+am
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+around
+as
+at
+away
+axe
+be
+became
+been
+began
+began
+bodies
+book
+book
+book
+bought
+but
+chair
+changes
+changes
+changes
+cigarettes
+corner
+crumpled
+desk
+differences
+different
+earth
+enough
+every
+everything
+everything
+everything
+first
+flat
+from
+from
+global
+going
+got
+grabbed
+hand
+hand
+have
+he
+he
+he
+he
+head
+his
+his
+his
+his
+his
+his
+his
+his
+his
+history
+hoop
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+identities
+if
+impossible
+impressions
+in
+in
+in
+in
+in
+in
+in
+in
+in
+into
+is
+is
+is
+it
+it
+it
+it
+it
+it
+keep
+knocked
+left
+lightbulb
+like
+local
+log
+long
+longer
+maybe
+means
+mental
+might
+mouth
+my
+my
+my
+my
+new
+new
+notecard
+notecard
+notecards
+notecards
+notecards
+notecards
+notecards
+now
+of
+of
+on
+on
+on
+on
+on
+one
+or
+or
+or
+out
+out
+out
+out
+paper
+paul
+pocket
+pulled
+pulled
+pushed
+put
+ran
+reached
+recording
+ribbon
+ribbon
+ribbon
+right
+right
+round
+run
+s
+same
+same
+same
+same
+stared
+state
+stays
+stays
+stood
+swear
+swore
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+thing
+things
+think
+thoughts
+thoughts
+thoughts
+threw
+to
+to
+typewriter
+typewriter
+typewriter
+typing
+typing
+typing
+typing
+up
+up
+up
+wait
+waited
+was
+way
+we
+we
+well
+went
+what
+what
+will
+will
+with
+with
+woods
+write
+writing
+writing
+wrote

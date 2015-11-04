@@ -1,100 +1,195 @@
----
-title: Table of contents
-genre: table
-
-id: table_contents
-toc: "A table of contents"
-
-epigraph:
-    content: We are awash in the unseen and science has made us aware of the flood.
-    link: http://www.npr.org/blogs/13.7/2013/11/05/243081116/dark-matter-eludes-capture-science-and-the-unseen
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 1
-    next:
-    - title: Ouroboros of memory
-      link: ouroboros_memory
-    - title: The Big Dipper
-      link: big-dipper
-...
-
---- ---------------------------------------- --- ------------------------------------
- 4. [The look she gave me][]                  4. Half-hours in heaven are three times
-                                                 [that in hell][]
-
- 5. [Not out of anger][]                      5. [Pay the toll][], mister, or nothing
-                                                 can get done
-
- 6. [A desire to understand][]                6. [Misattributed][]
-
- 7. [Seven syllables amble][]                 7. [Disassociated][]
-
- 8. [To drink at the pond][]                  8. [Advice from a cereal box][]
-
- 9. [Two fall in and drown][]                 9. [The challenges of][] a modern life
-
-10. [Odd-numbered ponies][]                  10. Probability and the American
-                                                 [Dream][]
-
-11. [Buck and Whinny in the moonlight][]     11. [Two friends throw dice][]
-
-12. [To die tomorrow][]                      12. [Fears of death][]
-
-13. [To be everywhere][]                     13. The [solipsist talks to God][]
-
-14. [All at one time: my motto][]            14. [A phone conversation][] following
-                                                 receipt of an ill-timed love letter
-
-15. [Of a perfect world][]                   15. Woody Allen at [the horse races][]
-
-16. [This morning the sun][]                 16. Whether you say [good morning][] or
-                                                 good night
-
-17. [Wandering through the window][]         17. A traveler [waiting on the mountain][]
-
-18. [Alights on my shoulder][]               18. The impenetrable object falls in
-                                                 [love][]
-
-                                              1. [Liquid messenger][]
-
-                                              2. [After a gate closes, dogs bark][]
-
-                                              3. [Finding old men at dusk][]
-
---- --------------------------------------- ---- -----------------------------------
-
-[The look she gave me]: ouroboros_memory.html
-[Not out of anger]: lappel-du-vide.html
-[A desire to understand]: boy_bus.html
-[Seven syllables amble]: i-think-its-you.html
-[To drink at the pond]: initial-conditions.html
-[Two fall in and drown]: love-as-god.html
-[Odd-numbered ponies]: worse-looking-over.html
-[Buck and Whinny in the moonlight]: sixteenth-chapel.html
-[To die tomorrow]: last-bastion.html
-[To be everywhere]: amber-alert.html
-[All at one time: my motto]: exasperated.html
-[Of a perfect world]: death-zone.html
-[This morning the sun]: big-dipper.html
-[Wandering through the window]: poetry-time.html
-[Alights on my shoulder]: moon-drowning.html
-[Liquid messenger]: music-433.html
-[After a gate closes, dogs bark]: riptide_memory.html
-[Finding old men at dusk]: about-the-author.html
-[A phone conversation]: phone.html
-[that in hell]: telemarketer.html
-[Pay the toll]: no-nothing.html
-[Misattributed]: howithappened.html
-[Disassociated]: howtoread.html
-[Advice from a cereal box]: cereal.html
-[The challenges of]: call-me-aural-pleasure.html
-[Dream]: in-bed.html
-[Two friends throw dice]: deadman.html
-[Fears of death]: seasonal-affective-disorder.html
-[solipsist talks to God]: boar.html
-[the horse races]: one-hundred-lines.html
-[good morning]: big-dipper.html
-[waiting on the mountain]: mountain.html
-[love]: lovesong.html
+1
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+2
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+a
+a
+a
+a
+a
+a
+a
+advice
+after
+alights
+all
+allen
+amble
+american
+an
+and
+and
+and
+anger
+are
+at
+at
+at
+at
+bark
+be
+box
+buck
+can
+cereal
+challenges
+closes
+contents
+conversation
+death
+desire
+dice
+die
+disassociated
+dogs
+done
+dream
+drink
+drown
+dusk
+everywhere
+fall
+falls
+fears
+finding
+following
+friends
+from
+gate
+gave
+get
+god
+good
+good
+half-hours
+heaven
+hell
+horse
+ill-timed
+impenetrable
+in
+in
+in
+in
+in
+letter
+life
+liquid
+look
+love
+love
+me
+men
+messenger
+misattributed
+mister
+modern
+moonlight
+morning
+morning
+motto
+mountain
+my
+my
+night
+not
+nothing
+object
+odd-numbered
+of
+of
+of
+of
+of
+of
+old
+on
+on
+one
+or
+or
+out
+pay
+perfect
+phone
+pond
+ponies
+probability
+races
+receipt
+say
+seven
+she
+shoulder
+solipsist
+sun
+syllables
+table
+talks
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+this
+three
+through
+throw
+time
+times
+to
+to
+to
+to
+to
+toll
+tomorrow
+traveler
+two
+two
+understand
+waiting
+wandering
+whether
+whinny
+window
+woody
+world
+you

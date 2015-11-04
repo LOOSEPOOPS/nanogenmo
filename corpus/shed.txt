@@ -1,46 +1,158 @@
----
-title: Shed
-genre: prose
-
-id: shed
-toc: "Shed"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 9
-    next:
-    - title: Hands
-      link: hands
-    - title: Snow
-      link: snow
-    prev:
-    - title: Notes
-      link: notes
-    - title: Sapling
-      link: sapling
-...
-
-"What do you do all day in that shed out back" his mother asked one night while they ate dinner in front of the TV.
-"Write" he answered.
-"Write what" she asked in that way that means he'd better not say I don't know.
-"I don't know" he said.
-
-"Goddammit Paul" his mother said.
-"You're [wasting your life][] out in that shed.
-You need to go out and get---"
-"I chop down trees too" he said.
-"I make furniture out of them."
-His mother's face did a Hitchcock zoom as she considered this new information.
-"Is it any good" she asked, eyes narrowed.
-
-"It's getting there" he answered.
-"I'm getting better every day."
-"When is it going to be there" she asked.
-"When are you going to sell [this furniture][] of yours?"
-"It'll be a while" he answered.
-
-"Then you'd better get a job until then" she said.
-
-[wasting your life]: http://www.poetryfoundation.org/poem/177229
-[this furniture]: real-writer.html
+a
+a
+a
+all
+am
+and
+answered
+answered
+answered
+any
+are
+are
+as
+asked
+asked
+asked
+asked
+ate
+back
+be
+be
+better
+better
+better
+chop
+considered
+day
+day
+did
+dinner
+do
+do
+do
+do
+down
+every
+eyes
+face
+front
+furniture
+furniture
+get
+get
+getting
+getting
+go
+goddammit
+going
+going
+good
+he
+he
+he
+he
+he
+he
+his
+his
+his
+hitchcock
+i
+i
+i
+i
+i
+in
+in
+in
+in
+information
+is
+is
+is
+it
+it
+it
+it
+job
+know
+know
+life
+make
+means
+mother
+mother
+mother
+narrowed
+need
+new
+night
+not
+not
+not
+of
+of
+of
+one
+out
+out
+out
+out
+paul
+s
+said
+said
+said
+said
+say
+sell
+she
+she
+she
+she
+she
+shed
+shed
+shed
+that
+that
+that
+that
+the
+them
+then
+then
+there
+there
+they
+this
+this
+to
+to
+to
+too
+trees
+tv
+until
+wasting
+way
+what
+what
+when
+when
+while
+while
+will
+would
+would
+write
+write
+you
+you
+you
+you
+you
+your
+yours
+zoom

@@ -1,78 +1,562 @@
----
-title: Ouroboros of Memory
-genre: prose
-
-id: ouroboros_memory
-toc: "Ouroboros of memory"
-
-epigraph:
-    content: |
-        He used his body to remember
-        his body, but in the end could only
-        remember the string.
-    attrib: Jonathan Safran Foer
-    link: 'http://www.bet-tal.com/index.aspx?id=2315'
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 12
-    next:
-    - title: L'appel du vide
-      link: lappel-du-vide
-    - title: Love as God
-      link: love-as-god
-    prev:
-    - title: Table of contents
-      link: table_contents
-    - title: Initial Conditions
-      link: initial-conditions
-...
-
-[He said][] at the beginning, "It's like rolling yarn into a too-small ball.
-Sure, you can roll the memories around for a while, and maybe even use some of them.
-Eventually, though, you'll wind them all the way out and you'll be left with nothing but a small loop.
-You can tie this loop around your finger, and start wrapping your body, but this is an extension of the same problem.
-You'll turn into a mummy of memory.
-There'll be nothing left underneath but a dead body.
-
-"But what does it mean, _To remember the body with the body?_
-I imagine a creature made of memory, putting its feet in its mouth, turning into a ball.
-In this way, it could roll all around the landscape of its memory.
-I've tried explaining this to other people, but it doesn't make any sense to them.
-The task of eating one's feet is, to them, an unsolvable problem.
-They seem to have forgotten that, as babies, they were able to make themselves into loops.
-
-"So I increase the count to two: two snakes eating each other's tales, forming a loop.
-In this way they are able to put two heads on one body.
-This doubles the number of memories, which really only exacerbates the problem.
-It's like trying to roll two different materials up into a ball.
-The people I tell this to don't understand this either, they say using two animals makes sense to them.
-They say there must be different types of memory.
-
-"I disagree with this theory of memory.
-I think there is, at bottom, only one type of anything, with subtypes grouped together along the edge of a loop.
-Color becomes a good metaphor: look how many of them!
-yet they are all consumed by the same part of the body.
-Maybe two different materials are still made of material, and maybe they can be rolled into a ball.
-Maybe there actually never was a problem.
-
-"Or maybe, and this is more likely, I need to restate the problem.
-I think it all boils down to the fact that I have a truly lousy memory.
-I've tried different mnemonic devices, like imagining each thing I need to remember being visited by a bouncing ball.
-I've tried trying string into finger-loops.
-I've even tried writing the things I need to remember on my body.
-If you asked me, 'Do any of these work,' I would have to answer, 'None of them.'
-
-"Sometimes in the morning I realize dumbly I've forgotten my words, all of them.
-They generally come back by around ten o'clock, but the frequency with which this is occurring is becoming a problem.
-I feel that my brain is being separated from my body.
-Is there a place in the universe for a misplaced memory?
-Does it eat its own tail and roll around the universe as it loops?
-Does it shrink down and become lost as a tiny ball?
-
-No matter what happens, eventually _I_ will become _them_ as I lose the last of my memory.
-I won't be able to solve the problem of my being, and my being will become my problem, in an eternal loop.
-I will roll my body into a prenatal ball.
-
-[He said]: joke.html
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+able
+able
+able
+actually
+all
+all
+all
+all
+all
+along
+an
+an
+an
+and
+and
+and
+and
+and
+and
+and
+and
+animals
+answer
+any
+any
+anything
+are
+are
+are
+around
+around
+around
+around
+around
+as
+as
+as
+as
+asked
+at
+at
+babies
+back
+ball
+ball
+ball
+ball
+ball
+ball
+ball
+be
+be
+be
+be
+be
+become
+become
+become
+becomes
+becoming
+beginning
+being
+being
+being
+being
+body
+body
+body
+body
+body
+body
+body
+body
+body
+boils
+bottom
+bouncing
+brain
+but
+but
+but
+but
+but
+but
+by
+by
+by
+can
+can
+can
+clock
+color
+come
+consumed
+could
+count
+creature
+dead
+devices
+different
+different
+different
+different
+disagree
+do
+does
+does
+does
+does
+doubles
+down
+down
+dumbly
+each
+each
+eat
+eating
+eating
+edge
+either
+eternal
+even
+even
+eventually
+eventually
+exacerbates
+explaining
+extension
+fact
+feel
+feet
+feet
+finger
+finger-loops
+for
+for
+forgotten
+forgotten
+forming
+frequency
+from
+generally
+good
+grouped
+happens
+have
+have
+have
+have
+have
+have
+have
+have
+he
+heads
+how
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+if
+imagine
+imagining
+in
+in
+in
+in
+in
+in
+increase
+into
+into
+into
+into
+into
+into
+into
+into
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+it
+its
+its
+its
+its
+landscape
+last
+left
+left
+like
+like
+like
+likely
+look
+loop
+loop
+loop
+loop
+loop
+loops
+loops
+lose
+lost
+lousy
+made
+made
+make
+make
+makes
+many
+material
+materials
+materials
+matter
+maybe
+maybe
+maybe
+maybe
+maybe
+me
+mean
+memories
+memories
+memory
+memory
+memory
+memory
+memory
+memory
+memory
+memory
+memory
+metaphor
+misplaced
+mnemonic
+more
+morning
+mouth
+mummy
+must
+my
+my
+my
+my
+my
+my
+my
+my
+my
+need
+need
+need
+never
+no
+none
+not
+not
+not
+nothing
+nothing
+number
+o
+o
+occurring
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+on
+on
+one
+one
+one
+only
+only
+or
+other
+other
+ouroboros
+out
+own
+part
+people
+people
+place
+prenatal
+problem
+problem
+problem
+problem
+problem
+problem
+problem
+problem
+put
+putting
+realize
+really
+remember
+remember
+remember
+restate
+roll
+roll
+roll
+roll
+roll
+rolled
+rolling
+s
+s
+said
+same
+same
+say
+say
+seem
+sense
+sense
+separated
+shrink
+small
+snakes
+so
+solve
+some
+sometimes
+start
+still
+string
+subtypes
+sure
+tail
+tales
+task
+tell
+ten
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+them
+them
+them
+them
+them
+them
+them
+them
+themselves
+theory
+there
+there
+there
+there
+there
+these
+they
+they
+they
+they
+they
+they
+they
+they
+thing
+things
+think
+think
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+though
+tie
+tiny
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+together
+too-small
+tried
+tried
+tried
+tried
+truly
+trying
+trying
+turn
+turning
+two
+two
+two
+two
+two
+two
+type
+types
+underneath
+understand
+universe
+universe
+unsolvable
+up
+use
+using
+visited
+was
+way
+way
+way
+were
+what
+what
+which
+which
+while
+will
+will
+will
+will
+will
+will
+will
+wind
+with
+with
+with
+with
+with
+wo
+words
+work
+would
+would
+wrapping
+writing
+yarn
+yet
+you
+you
+you
+you
+you
+you
+your
+your

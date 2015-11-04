@@ -1,55 +1,247 @@
----
-title: Love Song
-genre: prose
-
-id: lovesong
-toc: "Love song"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 15
-    prev:
-    - title: How it happened
-      link: howithappened
-    next:
-    - title: Rough gloves
-      link: roughgloves
-...
-
-Walking along in the dark is a good way to begin a song.
-Walking home in the dark after a long day chasing criminals is another.
-Running away from an imagined evil is no way to begin a story.
-
-I am telling you this because you wanted to know what it's like to tell [something so beautiful][] everyone will cry.
-I am telling you because I want you to know what it is to keep everything inside of you.
-I am telling you.
-
-Can you see?
-Can you see into me and reach in your hand and pull me inside out, like an [old shirt][]?
-Will you wear me until I unravel on your shoulders, will you cut me apart and use my skin to clean up the [cola you spill][] on the floor when you're drunk?
-
-I want you to know that I want you to know.
-Do you want me?
-To know is to know.
-[I, you want we.][]
-We want.
-That is why we're here.
-To want is to be is to want and I want you.
-Do you also?
-Check yes or no.
-
-There is a way to end every story, [every song][].
-Every criminal must be caught.
-Even those who cry dry their tears.
-I cannot tell you all I want because I want to tell you everything.
-[There is no art because there is no mirror big enough.][]
-We wake up every day.
-Sometimes we sleep.
-
-[old shirt]: ronaldmcdonald.html
-[every song]: swansong.html
-[something so beautiful]: window.html
-[cola you spill]: ex-machina.html
-[I, you want we.]: poetry-time.html
-[There is no art because there is no mirror big enough.]: hands.html
+a
+a
+a
+a
+a
+after
+all
+along
+also
+am
+am
+am
+an
+an
+and
+and
+and
+and
+another
+apart
+are
+are
+art
+away
+be
+be
+beautiful
+because
+because
+because
+because
+begin
+begin
+big
+can
+can
+cannot
+caught
+chasing
+check
+clean
+cola
+criminal
+criminals
+cry
+cry
+cut
+dark
+dark
+day
+day
+do
+do
+drunk
+dry
+end
+enough
+even
+every
+every
+every
+every
+everyone
+everything
+everything
+evil
+floor
+from
+good
+hand
+here
+home
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+imagined
+in
+in
+in
+inside
+inside
+into
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+keep
+know
+know
+know
+know
+know
+know
+like
+like
+long
+love
+me
+me
+me
+me
+me
+mirror
+must
+my
+no
+no
+no
+no
+of
+old
+on
+on
+or
+out
+pull
+reach
+running
+see
+see
+shirt
+shoulders
+skin
+sleep
+so
+something
+sometimes
+song
+song
+song
+spill
+story
+story
+tears
+tell
+tell
+tell
+telling
+telling
+telling
+that
+that
+the
+the
+the
+the
+their
+there
+there
+there
+this
+those
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+unravel
+until
+up
+up
+use
+wake
+walking
+walking
+want
+want
+want
+want
+want
+want
+want
+want
+want
+want
+want
+wanted
+way
+way
+way
+we
+we
+we
+we
+we
+wear
+what
+what
+when
+who
+why
+will
+will
+will
+yes
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+your
+your

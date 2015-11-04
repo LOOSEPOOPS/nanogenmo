@@ -1,23 +1,35 @@
----
-title: Listen
-genre: verse
-
-id: listen
-toc: "Listen"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| If you swallow hard enough
-| you'll [feel the stone][]
-| the one we all have waiting
-
-| Once I [found the stone][] in
-| the sea it kissed me as
-| [the sea pawed at my back][]
-
-[the sea pawed at my back]: the-sea_the-beach.html
-[feel the stone]: serengeti.html
-[found the stone]: plant.html
+all
+as
+at
+back
+enough
+feel
+found
+hard
+have
+i
+if
+in
+it
+kissed
+listen
+me
+my
+once
+one
+pawed
+sea
+sea
+stone
+stone
+swallow
+the
+the
+the
+the
+the
+waiting
+we
+will
+you
+you

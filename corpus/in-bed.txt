@@ -1,153 +1,413 @@
----
-title: In bed
-genre: verse
-
-id: in-bed
-toc: "In bed"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-## I
-
-| I hear [the rats][] run
-| in the walls like water
-| through a tree.  My blood
-
-| thickens.  As I dream
-| the masturbation dream
-| the shelf above my bed
-
-| falls covering me in
-| dirt and decaying beetles.
-| [I see my reflection is headless][].
-
-## II
-
-| When the waves stop
-| [and the moon grins down][]
-| to overtake me: the car
-
-| ran up the street that night
-| when you were nearly
-| molested in your neighbor's house:
-
-| is this why we don't have
-| neighbors?  For this the trees
-| [rot only for us][]?
-
-## III
-
-| I [woke screaming][] and you
-| came to sit next to me.  I felt
-| my eyes were open too wide
-
-| that I could not shut them
-| from the horror movie sitting
-| on your lap in the easy chair
-
-| in the dream the other dream
-| in the living room under
-| the tree.  Why do I feel guilty?
-
-
-## IV
-
-| I wake up in a pool of water
-| [closed over me like an eyelid][].
-| There is no longer comfort
-
-| in staring at the ceiling.
-| Its pitch blackness beckons
-| into a future of blankness.
-
-| My body lay still quaking.
-| My mind is chained fast
-| to the beating of my heart.
-
-## V
-
-| I sit up slowly creaking.
-| I find myself alone buried
-| [in an ocean][].  Far off
-
-| [there is an eagle][] flying
-| toward me.  She lands on
-| [my knee and lays an egg][].
-
-| I think *not this again*
-| something I've never
-| thought in my life.
-
-## VI
-
-| I think *not this again*
-| something I've never
-| thought in my life.  Not
-
-| after losing my car keys
-| in the easy chair.  Not after
-| scratching myself on a branch.
-
-| Not after finding the thing
-| in your dresser drawer that
-| night.  [I remember you suddenly.][]
-
-
-## VII
-
-| You run through me
-| [like rats][rats] down an alley.
-| You are in my [blood][].
-
-| You scared me once
-| remember?  Jumped out
-| of the bathroom door.
-
-| I fell screaming onto
-| the linoleum.  Did you
-| apologize?  Did you need to?
-
-## VIII
-
-| The ocean that surrounds me
-| creaks like a rocking
-| cradle.  Your face bright
-
-| as the moon at eclipse
-| and as [red][].  Low song
-| my tide stretching
-
-| to the horizon.  Ripples
-| on the surface belie
-| something bigger beneath.
-
-## IX
-
-| In bed I am alone for
-| the only time.  In bed
-| I am a grown man.
-
-| Below the blankets I
-| know you for who you are.
-| In bed I see your face
-
-| pressed against the window.
-| I look out and see you
-| and I am not afraid.
-
-[the rats]: last-bastion.html
-[I see my reflection is headless]: deathstrumpet.html
-[and the moon grins down]: moon-drowning.html
-[rot only for us]: options.html
-[woke screaming]: worse-looking-over.html
-[closed over me like an eyelid]: theoceanoverflowswithcamels.html
-[in an ocean]: the-sea_the-beach.html
-[there is an eagle]: mountain.html
-[I remember you suddenly.]: ouroboros_memory.html
-[rats]: #I
-[blood]: plant.html
-[red]: window.html
-[my knee and lays an egg]: http://www.sacred-texts.com/neu/kveng/kvrune01.htm
+a
+a
+a
+a
+a
+a
+above
+afraid
+after
+after
+after
+again
+again
+against
+alley
+alone
+alone
+am
+am
+am
+an
+an
+an
+an
+an
+and
+and
+and
+and
+and
+and
+and
+apologize
+are
+are
+as
+as
+as
+at
+at
+bathroom
+beating
+beckons
+bed
+bed
+bed
+bed
+bed
+beetles
+belie
+below
+beneath
+bigger
+blackness
+blankets
+blankness
+blood
+blood
+body
+branch
+bright
+buried
+came
+car
+car
+ceiling
+chained
+chair
+chair
+closed
+comfort
+could
+covering
+cradle
+creaking
+creaks
+decaying
+did
+did
+dirt
+do
+do
+door
+down
+down
+drawer
+dream
+dream
+dream
+dream
+dresser
+eagle
+easy
+easy
+eclipse
+egg
+eyelid
+eyes
+face
+face
+falls
+far
+fast
+feel
+fell
+felt
+find
+finding
+flying
+for
+for
+for
+for
+from
+future
+grins
+grown
+guilty
+have
+have
+have
+headless
+hear
+heart
+horizon
+horror
+house
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+ii
+iii
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+in
+into
+is
+is
+is
+is
+is
+its
+iv
+ix
+jumped
+keys
+knee
+know
+lands
+lap
+lay
+lays
+life
+life
+like
+like
+like
+like
+linoleum
+living
+longer
+look
+losing
+low
+man
+masturbation
+me
+me
+me
+me
+me
+me
+me
+me
+mind
+molested
+moon
+moon
+movie
+my
+my
+my
+my
+my
+my
+my
+my
+my
+my
+my
+my
+my
+myself
+myself
+nearly
+need
+neighbor
+neighbors
+never
+never
+next
+night
+night
+no
+not
+not
+not
+not
+not
+not
+not
+not
+ocean
+ocean
+of
+of
+of
+of
+off
+on
+on
+on
+on
+once
+only
+only
+onto
+open
+other
+out
+out
+over
+overtake
+pitch
+pool
+pressed
+quaking
+ran
+rats
+rats
+red
+reflection
+remember
+remember
+ripples
+rocking
+room
+rot
+run
+run
+s
+scared
+scratching
+screaming
+screaming
+see
+see
+see
+she
+shelf
+shut
+sit
+sit
+sitting
+slowly
+something
+something
+something
+song
+staring
+still
+stop
+street
+stretching
+suddenly
+surface
+surrounds
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+there
+there
+thickens
+thing
+think
+think
+this
+this
+this
+this
+thought
+thought
+through
+through
+tide
+time
+to
+to
+to
+to
+to
+to
+too
+toward
+tree
+tree
+trees
+under
+up
+up
+up
+us
+v
+vi
+vii
+viii
+wake
+walls
+water
+water
+waves
+we
+were
+were
+when
+when
+who
+why
+why
+wide
+window
+woke
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+your
+your
+your
+your
+your

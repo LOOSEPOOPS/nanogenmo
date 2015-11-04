@@ -1,34 +1,227 @@
----
-title: Philosophy
-genre: prose
-
-id: philosophy
-toc: "Philosophy"
-
-project:
-    title: Book of Hezekiah
-    class: hezekiah
-    order: 3
-    next:
-    - title: Proverbs
-      link: proverbs
-    prev:
-    - title: The purpose of dogs
-      link: purpose-dogs
-...
-
-Importance is important.
-But meaning is meaningful.
-Here we are at the crux of the matter, for both meaning and importance are also human-formed.
-So it would seem that nothing is important or meaningful, if importance and meaning are of themselves only products of the fallible human intellect.
-But here is the great secret: *so is the fallibility of the human intellect a mere product of the fallible human intellect.*
-The question here arises: Is anything real, and not a mere invention of a mistaken human mind?
-By real of course I mean "that which is *on its own terms*," that is, without any [modification][] on the part of mankind by observing it.
-But such a thing is impossible to be known, for if it be known it has certainly been observed by someone, and so it is not on its own terms but on the terms of the observer.
-So it cannot be known if anything exists on its own terms, for it exists on its own terms we certainly will not know anything about it.
-
-By this it is possible to see that nothing is knowable without the mediating factor of our mind fucking up the "[raw][]," the "real" world.
-But by this time it would seem that this chapter is far far too philosophical, not to mention pretentious, so I must try again.
-
-[modification]: i-am.html
-[raw]: spittle.html
+a
+a
+a
+a
+about
+again
+also
+and
+and
+and
+and
+any
+anything
+anything
+anything
+are
+are
+are
+arises
+at
+be
+be
+be
+been
+both
+but
+but
+but
+but
+but
+by
+by
+by
+by
+by
+cannot
+certainly
+certainly
+chapter
+course
+crux
+exists
+exists
+factor
+fallibility
+fallible
+fallible
+far
+far
+for
+for
+for
+fucking
+great
+has
+here
+here
+here
+human
+human
+human
+human
+human-formed
+i
+i
+if
+if
+if
+importance
+importance
+importance
+important
+important
+impossible
+intellect
+intellect
+intellect
+invention
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+its
+its
+its
+its
+know
+knowable
+known
+known
+known
+mankind
+matter
+mean
+meaning
+meaning
+meaning
+meaningful
+meaningful
+mediating
+mention
+mere
+mere
+mind
+mind
+mistaken
+modification
+must
+not
+not
+not
+not
+nothing
+nothing
+observed
+observer
+observing
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+on
+on
+on
+on
+on
+on
+only
+or
+our
+own
+own
+own
+own
+part
+philosophical
+philosophy
+possible
+pretentious
+product
+products
+question
+raw
+real
+real
+real
+secret
+see
+seem
+seem
+so
+so
+so
+so
+so
+someone
+such
+terms
+terms
+terms
+terms
+terms
+that
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+themselves
+thing
+this
+this
+this
+time
+to
+to
+to
+too
+try
+up
+we
+we
+which
+will
+without
+without
+world
+would
+would

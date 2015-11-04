@@ -1,48 +1,149 @@
----
-title: Planks
-genre: prose
-
-id: planks
-toc: "Planks"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 13
-    next:
-    - title: Hardware
-      link: hardware
-    - title: Punch
-      link: punch
-    prev:
-    - title: Leg
-      link: leg
-    - title: Phone
-      link: phone
-...
-
-> [EVERYTHING CHANGES OR EVERYTHING][]
-> [STAYS THE SAME][]
-
-This sat alone on a blank notecard in Paul's typewriter.
-He stared at it, sipping at his too-hot coffee.
-This made sense to him.
-
-He looked at the spot on the wall where he wanted a window to be, at the rough planks above his desk as they were lit by the bare hanging lightbulb.
-He sipped his coffee again.
-It was still too hot.
-His Woodworking Shack was becoming full of wood that was not furniture.
-He feared it would never become so.
-
-He threw open the door to the snow and the ground below it.
-He reached for his axe on the wall.
-He reconsidered.
-He took a few tentative steps onto the [blankness][] on his own.
-He wasn't cold, not yet.
-He walked into the forest.
-The snow crunched under his feet and [did not echo][].
-
-[EVERYTHING CHANGES OR EVERYTHING]: swear.html
-[STAYS THE SAME]: howtoread.html
-[blankness]: in-bed.html
-[did not echo]: last-passenger.html
+a
+a
+a
+above
+again
+alone
+and
+and
+as
+at
+at
+at
+at
+axe
+bare
+be
+become
+becoming
+below
+blank
+blankness
+by
+changes
+coffee
+coffee
+cold
+crunched
+desk
+did
+door
+echo
+everything
+everything
+feared
+feet
+few
+for
+forest
+full
+furniture
+ground
+hanging
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+him
+his
+his
+his
+his
+his
+his
+his
+hot
+in
+into
+it
+it
+it
+it
+lightbulb
+lit
+looked
+made
+never
+not
+not
+not
+not
+notecard
+of
+on
+on
+on
+on
+onto
+open
+or
+own
+paul
+planks
+planks
+reached
+reconsidered
+rough
+s
+same
+sat
+sense
+shack
+sipped
+sipping
+snow
+snow
+so
+spot
+stared
+stays
+steps
+still
+tentative
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+they
+this
+this
+threw
+to
+to
+to
+too
+too-hot
+took
+typewriter
+under
+walked
+wall
+wall
+wanted
+was
+was
+was
+was
+were
+where
+window
+wood
+woodworking
+would
+yet

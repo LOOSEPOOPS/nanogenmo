@@ -1,18 +1,55 @@
----
-title: Thesis defense list
-id: thesis-defense-list
-genre: list
-
-project:
-    title: Front matter
-    class: front-matter
-...
-
-- "[And](and.html)" is an old poem that I've recently rewritten.
-- [Riptide of memory](riptide_memory.html) has roots in
-  "[Instrumented](collage-instrument.html)."
-- "[The night we met, I was out of my mind](the-night-we-met.html)" is
-  a pantoum.
-- "[Last passenger](last-passenger.html)" is a poem written on September 1
-  of last year.
-- "[In bed](in-bed.html)" is a longish poem written in nine sections.
+1
+a
+a
+a
+an
+and
+bed
+defense
+has
+have
+i
+i
+in
+in
+in
+instrumented
+is
+is
+is
+is
+last
+last
+list
+longish
+memory
+met
+mind
+my
+night
+nine
+of
+of
+of
+old
+on
+out
+pantoum
+passenger
+poem
+poem
+poem
+recently
+rewritten
+riptide
+roots
+sections
+september
+that
+the
+thesis
+was
+we
+written
+written
+year

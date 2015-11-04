@@ -1,39 +1,143 @@
----
-title: Toilet
-genre: prose
-
-id: toilet
-toc: "Toilet"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 11
-    next:
-    - title: Leg
-      link: leg
-    - title: Toothpaste
-      link: toothpaste
-    prev:
-    - title: Hands
-      link: hands
-    - title: Tapestry
-      link: tapestry
-...
-
-Paul only did his reading on the toilet.
-
-He read in a magazine that the universe as we know it is actually a hologram, a three-dimensional projection of a lower, two-dimensional, "realer" reality.
-The article said that this model explains things like quantum entanglement, what it called "spooky action at a distance."
-
-After he finished, he ran back out to his Writing Shack and hammered out a Treatise on Literature as Spooky Action.
-His mind was reeling.
-He typed out an entire [notecard][] on the subject.
-
-He stopped to catch his breath.
-Reading it over, he realized he was completely wrong.
-"Paper is made from trees" he thought "and so is furniture."
-He had thought that ART and CRAFT were two separate enterprises but he realized in a flash that they were two sides of the same building.
-Were there other walls?
-
-[notecard]: treatise.html
+a
+a
+a
+a
+a
+a
+a
+action
+action
+actually
+after
+an
+and
+and
+and
+art
+article
+as
+as
+at
+back
+breath
+building
+but
+called
+catch
+completely
+craft
+did
+distance
+entanglement
+enterprises
+entire
+explains
+finished
+flash
+from
+furniture
+had
+hammered
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+his
+his
+his
+his
+hologram
+in
+in
+is
+is
+is
+it
+it
+it
+know
+like
+literature
+lower
+made
+magazine
+mind
+model
+notecard
+of
+of
+on
+on
+on
+only
+other
+out
+out
+out
+over
+paper
+paul
+projection
+quantum
+ran
+read
+reading
+reading
+realer
+reality
+realized
+realized
+reeling
+said
+same
+separate
+shack
+sides
+so
+spooky
+spooky
+stopped
+subject
+that
+that
+that
+that
+the
+the
+the
+the
+the
+there
+they
+things
+this
+thought
+thought
+three-dimensional
+to
+to
+toilet
+toilet
+treatise
+trees
+two
+two
+two-dimensional
+typed
+universe
+walls
+was
+was
+we
+were
+were
+were
+what
+writing
+wrong

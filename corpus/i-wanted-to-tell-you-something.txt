@@ -1,66 +1,387 @@
----
-title: I wanted to tell you something
-genre: verse
-
-id: i-wanted-to-tell-you-something
-toc: "I wanted to tell you something"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| I wanted to tell you something in order [to][]
-| explain the way I feel about the [Universe][],
-| its workings, etc.  But I couldn't [yesterday][]
-| ---I'm sorry---I wanted only to [ball][]
-| myself up and cry all day.  It was the [sixteenth][]
-| day in a row this happened to me, and to [be][]
-
-| more than two weeks waiting to cry is,
-| especially when, the whole time, I wasn't able to,
-| absolutely horrible.  It was no sweet sixteen,
-| I'll tell you that much.  Unless at yours, the Universe
-| kept telling you to quit having such a ball
-| and that you should have died, like, yesterday.
-
-| At first, it feels like you're winning---that yesterday
-| you really were meant to die, but since you still _are_,
-| you beat the system somehow.  But the Universe bawls,
-| "No, I meant you should've crawled into
-| a hole and fucking _died_!"  And then the Universe
-| punches you right in the gut, something like sixteen
-
-| times, and all you can think is, "Some sixteenth
-| birthday!  Maybe I will go die in a hole."  Yesterday,
-| at times like this, is a luxury the cruel Universe
-| refuses to give you.  This is when it's a pain just to _be_,
-| when that Marvell line about "[rolling our stuff into one ball][Marvell]"
-| just seems glib, when you don't want one body, let alone two.
-
-| Something else that may come as a surprise to
-| you: over the past more-than-a-fortnight, these sixteen
-| days, I've had nothing to eat but crackers and a cheese ball.
-| (That's not entirely true---yesterday
-| I had some candy, peppermints and Jujubes.)
-| Maybe this is why I'm so mad at the Universe---
-
-| because all it has ever wanted, this Universe
-| that gave me life, fed me from its breast til I was two,
-| and even before that, made a place in which I could be---
-| all it's wanted was for me to take the sixteen
-| steps to sobriety, fold the Eight-Fold Path over yesterday
-| and step around it lightly, as I would an exercise ball,
-
-| but the problem is, dear Universe, there's no way I could be
-| something as hard as all that, to wake up yesterday
-| morning, stretch over my sixteen selves, bound out like a ball.
-
-[to]: poetry-time.html
-[Universe]: initial-conditions.html
-[yesterday]: exasperated.html
-[ball]: ouroboros_memory.html
-[sixteenth]: sixteenth-chapel.html
-[be]: love-as-god.html
-
-[Marvell]: http://www.luminarium.org/sevenlit/marvell/coy.htm
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+able
+about
+about
+absolutely
+all
+all
+all
+all
+all
+alone
+am
+am
+an
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+are
+are
+around
+as
+as
+as
+as
+at
+at
+at
+at
+ball
+ball
+ball
+ball
+ball
+ball
+bawls
+be
+be
+be
+be
+beat
+because
+before
+birthday
+body
+bound
+breast
+but
+but
+but
+but
+but
+can
+candy
+cheese
+come
+could
+could
+could
+crackers
+crawled
+cruel
+cry
+cry
+day
+day
+days
+dear
+die
+die
+died
+died
+do
+eat
+eight-fold
+else
+entirely
+especially
+etc
+even
+ever
+exercise
+explain
+fed
+feel
+feels
+first
+fold
+for
+from
+fucking
+gave
+give
+glib
+go
+gut
+had
+had
+happened
+hard
+has
+have
+have
+have
+having
+hole
+hole
+horrible
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+in
+in
+in
+in
+in
+into
+into
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+its
+its
+jujubes
+just
+just
+kept
+let
+life
+lightly
+like
+like
+like
+like
+like
+line
+luxury
+mad
+made
+marvell
+may
+maybe
+maybe
+me
+me
+me
+me
+meant
+meant
+more
+more-than-a-fortnight
+morning
+much
+my
+myself
+no
+no
+no
+not
+not
+not
+not
+nothing
+one
+one
+only
+order
+our
+out
+over
+over
+over
+pain
+past
+path
+peppermints
+place
+problem
+punches
+quit
+really
+refuses
+right
+rolling
+row
+s
+s
+seems
+selves
+should
+should
+since
+sixteen
+sixteen
+sixteen
+sixteen
+sixteen
+sixteenth
+sixteenth
+so
+sobriety
+some
+some
+somehow
+something
+something
+something
+something
+something
+sorry
+step
+steps
+still
+stretch
+stuff
+such
+surprise
+sweet
+system
+take
+tell
+tell
+tell
+telling
+than
+that
+that
+that
+that
+that
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+then
+there
+these
+think
+this
+this
+this
+this
+this
+til
+time
+times
+times
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+true
+two
+two
+two
+universe
+universe
+universe
+universe
+universe
+universe
+universe
+universe
+unless
+up
+up
+waiting
+wake
+want
+wanted
+wanted
+wanted
+wanted
+wanted
+was
+was
+was
+was
+was
+way
+way
+weeks
+were
+when
+when
+when
+when
+which
+whole
+why
+will
+will
+winning
+workings
+would
+yesterday
+yesterday
+yesterday
+yesterday
+yesterday
+yesterday
+yesterday
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+yours

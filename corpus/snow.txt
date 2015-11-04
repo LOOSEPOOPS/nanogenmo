@@ -1,57 +1,241 @@
----
-title: Snow
-genre: prose
-
-id: snow
-toc: "Snow"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 23
-    next:
-    - title: Reports
-      link: reports
-    - title: Stagnant
-      link: stagnant
-    prev:
-    - title: Man
-      link: man
-    - title: Shed
-      link: shed
-...
-
-_[I don't care if they burn][]_ he wrote on his last blank notecard.
-He'd have to go to the Office Supply Store tomorrow after work.
-
-He looked at what he'd written.
-He'd been thinking about this for a while, felt the frustration build slowly like a [thundercloud][] in the back of his mind.
-He thought he should write something else on the card, but everything he thought of seemed too confessional or too real compromising.
-[He didn't want anyone, not even the notecards, to know what he was thinking.][thinking]
-He decided to try for more of an interview with the paper.
-
-_Why?_  asked the notecard.
-_Because there is nothing important on any of them_ he wrote back.
-_What do you mean?
-You have some good stuff in that top drawer there._
-He looked in the top drawer.
-It was stuffed full of notecards in no organization.
-He could see bits and pieces of thoughts like leaves crunched underfoot in autumn.
-_It will take so much organization_ he wrote.
-
-_Why is organization important?
-Remember the trees, [how they formed rows][] without trying.
-No matter how the ideas fall, they make something.
-[The snow][] [does that too][]_ he wrote.
-_It doesn't try to make anything but it does._
-
-_No the snow is different_ the notecard was annoyed.
-_The snow is a blank canvas that humans build into shapes or doppelgangers.
-It makes nothing on its own._
-
-[I don't care if they burn]: fire.html
-[thundercloud]: serengeti.html
-[thinking]: lappel-du-vide.html
-[how they formed rows]: axe.html
-[The snow]: one-hundred-lines.html
-[does that too]: weplayedthosegamestoo.html
+a
+a
+a
+about
+after
+an
+and
+annoyed
+any
+anyone
+anything
+asked
+at
+autumn
+back
+back
+because
+been
+bits
+blank
+blank
+build
+build
+burn
+but
+but
+canvas
+card
+care
+compromising
+confessional
+could
+crunched
+decided
+did
+different
+do
+do
+does
+does
+does
+doppelgangers
+drawer
+drawer
+else
+even
+everything
+fall
+felt
+for
+for
+formed
+frustration
+full
+go
+good
+have
+have
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+his
+his
+how
+how
+humans
+i
+ideas
+if
+important
+important
+in
+in
+in
+in
+in
+interview
+into
+is
+is
+is
+is
+it
+it
+it
+it
+it
+its
+know
+last
+leaves
+like
+like
+looked
+looked
+make
+make
+makes
+matter
+mean
+mind
+more
+much
+no
+no
+no
+not
+not
+not
+not
+notecard
+notecard
+notecard
+notecards
+notecards
+nothing
+nothing
+of
+of
+of
+of
+of
+of
+office
+on
+on
+on
+on
+or
+or
+organization
+organization
+organization
+own
+paper
+pieces
+real
+remember
+rows
+see
+seemed
+shapes
+should
+slowly
+snow
+snow
+snow
+snow
+so
+some
+something
+something
+store
+stuff
+stuffed
+supply
+take
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+there
+there
+they
+they
+they
+thinking
+thinking
+this
+thought
+thought
+thoughts
+thundercloud
+to
+to
+to
+to
+to
+tomorrow
+too
+too
+too
+top
+top
+trees
+try
+try
+trying
+underfoot
+want
+was
+was
+was
+what
+what
+what
+while
+why
+why
+will
+with
+without
+work
+would
+would
+would
+write
+written
+wrote
+wrote
+wrote
+wrote
+you
+you

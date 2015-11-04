@@ -1,40 +1,174 @@
----
-title: Art
-genre: prose
-
-id: art
-toc: "Art"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 1
-    next:
-    - title: Hymnal
-      link: hymnal
-    - title: Axe
-      link: axe
-...
-
-Paul was writing in his diary about art.
-
-_[This is my brain][]_ he wrote.
-_This is my brain and all it contains.
-['I contain multitudes' said Legion.][]
-I think it was Legion._
-The big heading he had written at the top of the page (_ART_ it read, but only when looking at it from his point of view) sat cold and alone, neglected in the [white space][] surrounding it.
-He noticed this presently (but not after he had written a little more about multitudes), paused, frowned, and began to write again.
-
-_ART stands alone at the top of a blank page_ he wrote.
-_It follows ~~itself in circles~~ its own footprints in a circle around its own name.
-It leads nowhere but is present everywhere.
-~~It contains~~ It contains multitudes.
-Every painting ever made is a painting of every other painting.
-Every song is a remix, a [cover version][]._
-He crossed out the part about songs for getting off topic.
-He made a note to himself in the margin---_Music is not ART._
-
-[This is my brain]: ouroboros_memory.html
-['I contain multitudes' said Legion.]: TODO_BIBLE_LINK
-[white space]: sense-of-it.html
-[cover version]: music-433.html
+a
+a
+a
+a
+a
+a
+a
+about
+about
+about
+after
+again
+all
+alone
+alone
+and
+and
+and
+around
+art
+art
+art
+art
+art
+at
+at
+at
+began
+big
+blank
+brain
+brain
+but
+but
+but
+circle
+circles
+cold
+contain
+contains
+contains
+contains
+cover
+crossed
+diary
+ever
+every
+every
+every
+everywhere
+follows
+footprints
+for
+from
+frowned
+getting
+had
+had
+he
+he
+he
+he
+he
+he
+he
+heading
+himself
+his
+his
+i
+i
+in
+in
+in
+in
+in
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+it
+its
+its
+itself
+leads
+legion
+legion
+little
+looking
+made
+made
+margin
+more
+multitudes
+multitudes
+multitudes
+music
+my
+my
+name
+neglected
+not
+not
+note
+noticed
+nowhere
+of
+of
+of
+of
+off
+only
+other
+out
+own
+own
+page
+page
+painting
+painting
+painting
+part
+paul
+paused
+point
+present
+presently
+read
+remix
+said
+sat
+song
+songs
+space
+stands
+surrounding
+the
+the
+the
+the
+the
+the
+the
+think
+this
+this
+this
+to
+to
+top
+top
+topic
+version
+view
+was
+was
+when
+white
+write
+writing
+written
+written
+wrote
+wrote

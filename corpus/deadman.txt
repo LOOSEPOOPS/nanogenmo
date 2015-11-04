@@ -1,77 +1,301 @@
----
-title: Dead man
-genre: verse
-
-id: deadman
-toc: "Dead man"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 9
-    prev:
-    - title: The boar
-      link: boar
-    next:
-    - title: The angel to Abraham
-      link: angeltoabraham
-...
-
-| The dead man finds [his way into our hearts][]
-| by [opening the door][] and walking in.
-
-| He pours himself [a drink][], something like
-| German cognac, from the mini-bar.  He starts talking
-
-| aimlessly about hunting or some bats he saw
-| on the way over, wheeling around each other
-
-| like [x-rays][] around bones and soft tissue.
-| The dead man can see x-rays now, he says,
-
-| a perk of his [condition][].
-| It's not so bad, he says, though
-
-| he stops short of saying it's as good as
-| being alive, an omission we can, ultimately,
-
-| forgive.  There's [a short silence][] where nothing
-| is said, we're just looking at him as he looks
-
-| at the ceiling or through it.  He looks good
-| for being dead.  We mention this to him
-
-| but he just looks embarrassed.  He mentions
-| eels he saw in the aquarium earlier, how they knot
-
-| while mating.  For hours, it's just a huge mass
-| of [eel flesh, he says, undulating in the water][].
-
-| We nod, waiting for what he'll say next.  He seems
-| uncomfortable carrying the conversation, but we
-
-| can't think of anything either.  Now it's his turn
-| to look at us, and [ours to stare at the ceiling][]
-
-| or wherever.  Finally, we mention the knots we tied
-| in Boy Scouts, especially the loop---a noose? he asks---
-
-| but we say no, the one with the rabbit in its hole
-| and the tree it goes around.  The dead man
-
-| knows that knot, he says, it's a good knot.  But what
-| he really likes is the rabbit, coming out of its hole
-
-| in the morning, eating some grass, and a fox creeping
-| out of its hiding place and chasing the rabbit around
-
-| the tree, back into its hole, where it always ends up safe.
-
-[his way into our hearts]: last-bastion.html
-[opening the door]: words-meaning.html
-[a drink]: ex-machina.html
-[x-rays]: x-ray.html
-[condition]: initial-conditions.html
-[a short silence]: creation-myth.html
-[eel flesh, he says, undulating in the water]: spittle.html
-[ours to stare at the ceiling]: moongone.html
+a
+a
+a
+a
+a
+a
+a
+about
+aimlessly
+alive
+always
+an
+and
+and
+and
+and
+and
+and
+anything
+aquarium
+are
+around
+around
+around
+around
+as
+as
+as
+asks
+at
+at
+at
+at
+back
+bad
+bats
+being
+being
+bones
+boy
+but
+but
+but
+but
+by
+ca
+can
+can
+carrying
+ceiling
+ceiling
+chasing
+cognac
+coming
+condition
+conversation
+creeping
+dead
+dead
+dead
+dead
+dead
+door
+drink
+each
+earlier
+eating
+eel
+eels
+either
+embarrassed
+ends
+especially
+finally
+finds
+flesh
+for
+for
+for
+forgive
+fox
+from
+german
+goes
+good
+good
+good
+grass
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+hearts
+hiding
+him
+him
+himself
+his
+his
+his
+hole
+hole
+hole
+hours
+how
+huge
+hunting
+in
+in
+in
+in
+in
+in
+into
+into
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+its
+its
+its
+its
+just
+just
+just
+knot
+knot
+knot
+knots
+knows
+like
+like
+likes
+look
+looking
+looks
+looks
+looks
+loop
+man
+man
+man
+man
+mass
+mating
+mention
+mention
+mentions
+mini-bar
+morning
+next
+no
+nod
+noose
+not
+not
+nothing
+now
+now
+of
+of
+of
+of
+of
+of
+omission
+on
+one
+opening
+or
+or
+or
+other
+our
+ours
+out
+out
+over
+perk
+place
+pours
+rabbit
+rabbit
+rabbit
+really
+s
+safe
+said
+saw
+saw
+say
+say
+saying
+says
+says
+says
+says
+scouts
+see
+seems
+short
+short
+silence
+so
+soft
+some
+some
+something
+stare
+starts
+stops
+talking
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+there
+they
+think
+this
+though
+through
+tied
+tissue
+to
+to
+to
+tree
+tree
+turn
+ultimately
+uncomfortable
+undulating
+up
+us
+waiting
+walking
+water
+way
+way
+we
+we
+we
+we
+we
+we
+we
+we
+what
+what
+wheeling
+where
+where
+wherever
+while
+will
+with
+x-rays
+x-rays

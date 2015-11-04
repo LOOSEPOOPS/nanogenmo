@@ -1,55 +1,168 @@
----
-title: Ex machina
-genre: verse
-
-id: ex-machina
-toc: "Ex machina"
-
-epigraph:
-    content: with lines from National Geographic
-    link: 'http://ngm.nationalgeographic.com/2013/08/sugar/cohen-text'
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| Bottom of the drink: they had
-| to go.  The Coke machine, the snack
-| machine, the deep fryer.  Hoisted
-
-| and dragged through the halls
-| and out to the curb, they sat with
-| other trash beneath gray, forlorn
-
-| skies behind the elementary
-| school, wondering what their next
-| move would be.  The Coke machine
-
-| had always wanted to live
-| the life of a [hobo][], jumping trains,
-| eating from garbage, making fire
-
-| in old oil drums.  It had some
-| strange romantic notions of being homeless,
-| is what the deep fryer thought.
-
-| Its opinion was to head to court,
-| sue the bastards at the school for early
-| termination of contract.  It was
-
-| the embodiment of [justifiable anger][].
-| It believed privately that it was an incarnation
-| of Nemesis, the goddess of divine
-
-| retribution.  What the snack machine
-| thought, it kept to itself, but it did say
-| that [nothing ever ends][].  The others
-
-| were confused, then angry, but finally
-| understood, or thought they did.  The snack
-| machine's candy melted in the sun.
-
-[hobo]: prelude.html
-[justifiable anger]: table_contents.html
-[nothing ever ends]: no-nothing.html
+a
+always
+an
+and
+and
+anger
+angry
+at
+bastards
+be
+behind
+being
+believed
+beneath
+bottom
+but
+but
+candy
+coke
+coke
+confused
+contract
+court
+curb
+deep
+deep
+did
+did
+divine
+dragged
+drink
+drums
+early
+eating
+elementary
+embodiment
+ends
+ever
+ex
+finally
+fire
+for
+forlorn
+from
+fryer
+fryer
+garbage
+go
+goddess
+gray
+had
+had
+had
+halls
+head
+hobo
+hoisted
+homeless
+in
+in
+incarnation
+is
+it
+it
+it
+it
+it
+it
+its
+itself
+jumping
+justifiable
+kept
+life
+live
+machina
+machine
+machine
+machine
+machine
+machine
+making
+melted
+move
+nemesis
+next
+nothing
+notions
+of
+of
+of
+of
+of
+of
+of
+oil
+old
+opinion
+or
+other
+others
+out
+privately
+retribution
+romantic
+s
+sat
+say
+school
+school
+skies
+snack
+snack
+snack
+some
+strange
+sue
+sun
+termination
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+their
+then
+they
+they
+they
+thought
+thought
+thought
+through
+to
+to
+to
+to
+to
+to
+trains
+trash
+understood
+wanted
+was
+was
+was
+were
+what
+what
+what
+with
+wondering
+would

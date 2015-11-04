@@ -1,40 +1,267 @@
----
-title: The purpose of dogs
-genre: prose
-
-id: purpose-dogs
-toc: "The purpose of dogs"
-
-project:
-    title: Book of Hezekiah
-    class: hezekiah
-    order: 2
-    next:
-    - title: Philosophy
-      link: philosophy
-    prev:
-    - title: Prelude
-      link: prelude
-...
-
-Okay, so as we said in [the Prelude][], there either is or isn't a God.
-This has been one of the main past times of humanity, ever since ... since the first man (or woman) climbed out of whatever slime or swamp he thumbed his way out of.
-What humanity has failed to realize is that an incredibly plausible third, and heretofore unknown, hypothesis also exists: There is a dog.
-
-In fact, there are many dogs, and not only that.
-There are also many types of dogs; these are called breeds, and each breed was created by man in order to fulfill some use that man thought he needed.
-Some dogs are for chasing birds, and some are for chasing badgers.
-Some are for laying in your lap and being petted all day.
-Some dogs don't seem to be really for anything, besides being fucking stupid and chewing up your one-of-a-kind collectible individually-numbered King Kong figurine from the Peter Jackson film.
-But the important thing is, (and here we go with important things again) all dogs have been bred by people for performing some certain function that we think is important.
-
-Note: *Just because we think it's important doesn't mean it is important.*
-But it might as well be, because what we as humans think is important is important.
-But be careful!
-Just because something's important doesn't mean it means anything, or that it actually makes anything happen.
-Even though just because something makes something else happen doesn't mean it's important.
-[Shit][].
-Let me start again.
-
-[the Prelude]: prelude.html
-[Shit]: feedingtheraven.html
+a
+a
+actually
+again
+again
+all
+all
+also
+also
+an
+and
+and
+and
+and
+and
+and
+and
+anything
+anything
+anything
+are
+are
+are
+are
+are
+are
+as
+as
+as
+badgers
+be
+be
+be
+because
+because
+because
+because
+been
+been
+being
+being
+besides
+birds
+bred
+breed
+breeds
+but
+but
+but
+by
+by
+called
+careful
+certain
+chasing
+chasing
+chewing
+climbed
+collectible
+created
+day
+do
+does
+does
+does
+dog
+dogs
+dogs
+dogs
+dogs
+dogs
+dogs
+each
+either
+else
+even
+ever
+exists
+fact
+failed
+figurine
+film
+first
+for
+for
+for
+for
+for
+from
+fucking
+fulfill
+function
+go
+god
+happen
+happen
+has
+has
+have
+he
+he
+here
+heretofore
+his
+humanity
+humanity
+humans
+hypothesis
+important
+important
+important
+important
+important
+important
+important
+important
+important
+in
+in
+in
+in
+incredibly
+individually-numbered
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+jackson
+just
+just
+just
+king
+kong
+lap
+laying
+let
+main
+makes
+makes
+man
+man
+man
+many
+many
+me
+mean
+mean
+mean
+means
+might
+needed
+not
+not
+not
+not
+not
+not
+note
+of
+of
+of
+of
+of
+of
+okay
+one
+one-of-a-kind
+only
+or
+or
+or
+or
+order
+out
+out
+past
+people
+performing
+peter
+petted
+plausible
+prelude
+purpose
+realize
+really
+s
+said
+seem
+shit
+since
+since
+slime
+so
+some
+some
+some
+some
+some
+some
+something
+something
+something
+start
+stupid
+swamp
+that
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+there
+there
+there
+there
+these
+thing
+things
+think
+think
+think
+third
+this
+though
+thought
+thumbed
+times
+to
+to
+to
+types
+unknown
+up
+use
+was
+way
+we
+we
+we
+we
+we
+well
+what
+what
+whatever
+with
+woman
+your
+your

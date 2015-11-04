@@ -1,51 +1,180 @@
----
-title: Notes
-genre: prose
-
-id: notes
-toc: "Notes"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 8
-    next:
-    - title: Shed
-      link: shed
-    - title: Options
-      link: options
-    prev:
-    - title: Writing
-      link: writing
-    - title: Man
-      link: man
-...
-
-Paul began typing on notecards.
-Somehow this felt right to his sensibilities.
-It was difficult to get the little cards into the typewriter.
-It was a pain to readjust the typewriter for regular paper when he wasn't writing.
-He started typing everything on those little notecards: grocery lists, letters to his grandmother, [even reports for work][] (which is what got him in trouble).
-
-But this was all later.
-For now he was writing his ideas, "notes" he now called them, something for him to combine later into something.
-He didn't like to think about it.
-On this particular [cold winter morning][], he wrote
-
-> Woke up from a [dream][] I was famous.
-> One of the more famous people in
-> fact.  I had written something
-> everyone could relate to and at
-> the same time proved my parents
-> wrong.  Because I made a lot of
-> money.  Or not a lot, but enough
-> and more than they thought I
-> would.  It was a good day.
-> Woke up this morning and I was
-> still cold.  [Still Paul.][]  Still not
-> good at furniture.
-
-[even reports for work]: telemarketer.html
-[cold winter morning]: seasonal-affective-disorder.html
-[dream]: in-bed.html
-[Still Paul.]: something-simple.html
+a
+a
+a
+a
+a
+about
+all
+and
+and
+and
+at
+at
+because
+began
+but
+but
+called
+cards
+cold
+cold
+combine
+could
+day
+did
+difficult
+dream
+enough
+even
+everyone
+everything
+fact
+famous
+famous
+felt
+for
+for
+for
+for
+from
+furniture
+get
+good
+good
+got
+grandmother
+grocery
+had
+he
+he
+he
+he
+he
+he
+him
+him
+his
+his
+his
+i
+i
+i
+i
+i
+ideas
+in
+in
+into
+into
+is
+it
+it
+it
+it
+later
+later
+letters
+like
+lists
+little
+little
+lot
+lot
+made
+money
+more
+more
+morning
+morning
+my
+not
+not
+not
+not
+notecards
+notecards
+notes
+notes
+now
+now
+of
+of
+on
+on
+on
+one
+or
+pain
+paper
+parents
+particular
+paul
+paul
+people
+proved
+readjust
+regular
+relate
+reports
+right
+same
+sensibilities
+somehow
+something
+something
+something
+started
+still
+still
+still
+than
+the
+the
+the
+the
+the
+them
+they
+think
+this
+this
+this
+this
+those
+thought
+time
+to
+to
+to
+to
+to
+to
+to
+trouble
+typewriter
+typewriter
+typing
+typing
+up
+up
+was
+was
+was
+was
+was
+was
+was
+was
+what
+when
+which
+winter
+woke
+woke
+work
+would
+writing
+writing
+written
+wrong
+wrote

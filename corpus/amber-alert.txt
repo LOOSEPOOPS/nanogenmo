@@ -1,41 +1,79 @@
----
-title: AMBER alert
-genre: prose
-
-id: amber-alert
-toc: "AMBER alert"
-
-epigraph:
-    content: Apparently it does nothing.
-    link: 'http://www.boston.com/bostonglobe/ideas/articles/2008/07/20/abducted/?page=full'
-
-ekphrastic:
-    image: amber.jpg
-    title: Amber Hagerman
-    link: 'https://en.wikipedia.org/wiki/AMBER_alert'
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 6
-    next:
-    - title: Exasperated
-      link: exasperated
-    - title: The Death Zone
-      link: death-zone
-    prev:
-    - title: Last bastion
-      link: last-bastion
-    - title: Something about the nature of poetry and time
-      link: poetry-time
-...
-
-[Lost things][] have a way of [staying lost][].
-They have to want to be found---is that why we tack up signs, hang socks from hooks in the park, have a box for what's been lost but now is found?
-Maybe the lost *want* to be found but we're looking in the wrong places.
-Maybe we speak the wrong language, the language of the found, to call to them.
-Maybe we should [try another door][].
-
-[Lost things]: lappel-du-vide
-[staying lost]: http://www.poetryfoundation.org/poem/176996
-[try another door]: statements-frag.html
+a
+a
+alert
+amber
+another
+are
+be
+be
+been
+box
+but
+but
+call
+door
+for
+found
+found
+found
+found
+from
+hang
+have
+have
+have
+hooks
+in
+in
+is
+is
+language
+language
+looking
+lost
+lost
+lost
+lost
+maybe
+maybe
+maybe
+now
+of
+of
+park
+places
+s
+should
+signs
+socks
+speak
+staying
+tack
+that
+the
+the
+the
+the
+the
+the
+them
+they
+things
+to
+to
+to
+to
+to
+try
+up
+want
+want
+way
+we
+we
+we
+we
+what
+why
+wrong
+wrong

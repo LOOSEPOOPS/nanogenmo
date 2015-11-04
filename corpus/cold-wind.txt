@@ -1,33 +1,73 @@
----
-title: Cold wind
-genre: verse
-
-id: cold-wind
-toc: "Cold wind"
-
-dedication: Justin
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| [Man of autumn][], cold wind,
-| blow down the trees' leaves.
-| [Fire on the ground][].  The sky is
-| perfect water, frost-cold,
-| rippled only by flocks
-| [of black birds][] flying and gone.
-| Their brightness can blind
-| an uncareful watcher, work him
-| [in a froth of hands][], not-wings
-| that ache with the loss of flight.
-| A tear is flung faithfully
-| [to the ocean of air][], slipping in
-| slowly, is as gone as the birds.
-
-[Man of autumn]: january.html
-[Fire on the ground]: fire.html
-[of black birds]: i-think-its-you.html
-[in a froth of hands]: when-im-sorry-i.html
-[to the ocean of air]: lappel-du-vide.html
+a
+a
+ache
+air
+an
+and
+as
+as
+autumn
+birds
+birds
+black
+blind
+blow
+brightness
+by
+can
+cold
+cold
+down
+faithfully
+fire
+flight
+flocks
+flung
+flying
+frost-cold
+froth
+gone
+gone
+ground
+hands
+him
+in
+in
+is
+is
+is
+leaves
+loss
+man
+not-wings
+ocean
+of
+of
+of
+of
+of
+on
+only
+perfect
+rippled
+sky
+slipping
+slowly
+tear
+that
+the
+the
+the
+the
+the
+the
+their
+to
+trees
+uncareful
+watcher
+water
+wind
+wind
+with
+work

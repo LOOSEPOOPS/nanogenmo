@@ -1,29 +1,104 @@
----
-title: Walking in the rain
-genre: verse
-
-id: walking-in-the-rain
-toc: "Walking in the rain"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| I can walk through the rain, [that rare occurrence][]
-| and never be hit by a drop.  There is a space around me
-| that refuses to be [penetrated][] by weather of any kind
-| be it rain or snow or sunshine.  [Is it cold I hear you][]
-| asking in your voice soft as a breeze.  No it is not
-| [particularly cold][].  If I were to describe it as warm
-| [I would be lying as well][].  If I were to pretend I heard
-| you, far-off, mirage, breeze on the horizon, [no truth][]
-| would ever be said to have come from [my frozen lips][].
-
-[that rare occurrence]: collage-instrument.html
-[Is it cold I hear you]: seasonal-affective-disorder.html
-[particularly cold]: cold-wind.html
-[I would be lying as well]: todaniel.html
-[no truth]: no-nothing.html
-[my frozen lips]: swansong-alt.html
-[penetrated]: lovesong.html
+a
+a
+a
+and
+any
+around
+as
+as
+as
+asking
+be
+be
+be
+be
+be
+breeze
+breeze
+by
+by
+can
+cold
+cold
+come
+describe
+drop
+ever
+far-off
+from
+frozen
+have
+hear
+heard
+hit
+horizon
+i
+i
+i
+i
+i
+i
+if
+if
+in
+in
+is
+is
+is
+it
+it
+it
+it
+kind
+lips
+lying
+me
+mirage
+my
+never
+no
+no
+not
+occurrence
+of
+on
+or
+or
+particularly
+penetrated
+pretend
+rain
+rain
+rain
+rare
+refuses
+said
+snow
+soft
+space
+sunshine
+that
+that
+the
+the
+the
+there
+through
+to
+to
+to
+to
+truth
+voice
+walk
+walking
+warm
+weather
+well
+were
+were
+would
+would
+you
+you
+your

@@ -1,68 +1,207 @@
----
-title: Treatise
-genre: prose
-
-id: treatise
-toc: "Treatise"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 15
-    next:
-    - title: Phone
-      link: phone
-    - title: Underwear
-      link: underwear
-    prev:
-    - title: Hardware
-      link: hardware
-    - title: Toothpaste
-      link: toothpaste
-...
-
-> TREATISE ON LITERATURE AS "SPOOKY
-> ACTION FROM A DISTANCE"
->
-> There is this thing called "spooky
-> action at a distance."  Einstein
-> mentioned it first I believe.  It
-> is about how two electrons can act
-> like they are right next to each
-> other although they are very far
-> away (lightyears even).  For a long
-> time this puzzled scientists until
-> someone (not Einstein) figured out
-> that maybe the universe is a
-> hologram or projection.  So what
-> appears to be very far apart in
-> the hologram might actually be
-> very close in the substrate
-> reality.
->
-> I want to talk about this
-> effect in literature.  In literature
-> the writer writes words on a
-> substrate (paper) and later the
-> reader reads the same words off
-> the substrate.  Although the writer
-> and reader might be very far apart
-> from each other in time and space,
-> they experience the same effect
-> from reading the words.  Even the
-> writer reading his own words after
-> he has written them becomes a
-> reader and feels who he was at
-> that time, [like a ghost][].
->
-> PROBLEMS:
->
-> Maybe the substrate isn't
-> paper it's what the writing is
-> about.  [Where is the hologram][]?  Are
-> physics and literature comparable?
-> What if the universe isn't a
-> hologram what then?
-
-[like a ghost]: howtoread.html
-[Where is the hologram]: toilet.html
+a
+a
+a
+a
+a
+a
+a
+a
+about
+about
+about
+act
+action
+action
+actually
+after
+although
+although
+and
+and
+and
+and
+and
+apart
+apart
+appears
+are
+are
+are
+as
+at
+at
+away
+be
+be
+be
+becomes
+believe
+called
+can
+close
+comparable
+distance
+distance
+each
+each
+effect
+effect
+einstein
+einstein
+electrons
+even
+even
+experience
+far
+far
+far
+feels
+figured
+first
+for
+from
+from
+from
+ghost
+has
+he
+he
+his
+hologram
+hologram
+hologram
+hologram
+how
+i
+i
+if
+in
+in
+in
+in
+in
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+later
+lightyears
+like
+like
+literature
+literature
+literature
+literature
+long
+maybe
+maybe
+mentioned
+might
+might
+next
+not
+not
+not
+off
+on
+on
+or
+other
+other
+out
+own
+paper
+paper
+physics
+problems
+projection
+puzzled
+reader
+reader
+reader
+reading
+reading
+reads
+reality
+right
+same
+same
+scientists
+so
+someone
+space
+spooky
+spooky
+substrate
+substrate
+substrate
+substrate
+talk
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+then
+there
+they
+they
+they
+thing
+this
+this
+this
+time
+time
+time
+to
+to
+to
+treatise
+treatise
+two
+universe
+universe
+until
+very
+very
+very
+very
+want
+was
+what
+what
+what
+what
+where
+who
+words
+words
+words
+words
+writer
+writer
+writer
+writes
+writing
+written

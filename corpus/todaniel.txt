@@ -1,39 +1,114 @@
----
-title: To Daniel
-subtitle: an elaboration of a previous comment
-genre: verse
-
-id: todaniel
-toc: "To Daniel"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 27
-    prev:
-    - title: We played those games too
-      link: weplayedthosegamestoo
-    next:
-    - title: "Death's trumpet"
-      link: deathstrumpet
-...
-
-| There are more modern ideals of beauty
-| than yours, young padawan.  Jessica has
-| some assets, that I'll give you easily,
-| but in my women I prefer pizzazz.
-
-| I don't want to bring you down, or make you think
-| [that your perfected woman isn't so][trumpet].
-| It's just that, like Adam said, 2006
-| has come and gone.  What did she do
-
-| in that year anyway?  IMDB
-| has, surprisingly, none, though in '05
-| she's in four titles.  _Sin City_
-| I've never seen, although from many I've
-
-| heard it's good.  But it's still irrelevant---
-| no matter how comely, she lacks talent.
-
-[trumpet]: deathstrumpet.html
+05
+2006
+a
+adam
+although
+an
+and
+anyway
+are
+assets
+beauty
+bring
+but
+but
+city
+come
+comely
+comment
+daniel
+did
+do
+do
+down
+easily
+elaboration
+four
+from
+give
+gone
+good
+has
+has
+has
+have
+have
+heard
+how
+i
+i
+i
+i
+i
+ideals
+imdb
+in
+in
+in
+in
+irrelevant
+is
+is
+is
+is
+it
+it
+it
+jessica
+just
+lacks
+like
+make
+many
+matter
+modern
+more
+my
+never
+no
+none
+not
+not
+of
+of
+or
+padawan
+perfected
+pizzazz
+prefer
+previous
+s
+said
+seen
+she
+she
+she
+sin
+so
+some
+still
+surprisingly
+talent
+than
+that
+that
+that
+that
+there
+think
+though
+titles
+to
+to
+want
+what
+will
+woman
+women
+year
+you
+you
+you
+young
+your
+yours

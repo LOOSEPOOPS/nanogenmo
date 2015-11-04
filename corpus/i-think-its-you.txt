@@ -1,46 +1,92 @@
----
-title: I think it's you
-subtitle: "but it's not"
-genre: verse
-
-id: i-think-its-you
-toc: "I think it's you (but it's not)"
-
-epigraph:
-    content: When you fall in love everyone looks the same.
-    link: i-think-its-you.html
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 15
-    next:
-    - title: Initial conditions
-      link: initial-conditions
-    - title: Riptide of memory
-      link: riptide_memory
-    prev:
-    - title: Boy on the bus
-      link: boy_bus
-    - title: L'appel du vide
-      link: lappel-du-vide
-...
-
-| I thought I saw you walking
-| to the bus stop but it was only
-| a [raven][].  His croaks sounded nothing
-| like your footsteps (as they pound
-| down the hallway toward my bedroom)
-| his [wings][] looked nothing like your
-| legs (running on the wrong side
-| of the road away from my house)
-| I think the one resemblance was the eyes
-
-| But that's too easy
-| It's just that I was thinking
-| of you and a raven flew by
-| (maybe it was a [crow][])
-
-[raven]: feedingtheraven.html
-[crow]: stump.html
-[wings]: nothing-is-ever-over.html
+a
+a
+a
+and
+as
+away
+bedroom
+bus
+but
+but
+but
+by
+croaks
+crow
+down
+easy
+eyes
+flew
+footsteps
+from
+hallway
+his
+his
+house
+i
+i
+i
+i
+i
+is
+is
+is
+it
+it
+it
+it
+it
+just
+legs
+like
+like
+looked
+maybe
+my
+my
+not
+nothing
+nothing
+of
+of
+on
+one
+only
+pound
+raven
+raven
+resemblance
+road
+running
+s
+saw
+side
+sounded
+stop
+that
+that
+the
+the
+the
+the
+the
+the
+they
+think
+think
+thinking
+thought
+to
+too
+toward
+walking
+was
+was
+was
+was
+wings
+wrong
+you
+you
+you
+your
+your

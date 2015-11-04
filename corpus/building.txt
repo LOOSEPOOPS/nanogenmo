@@ -1,54 +1,228 @@
----
-title: Building
-genre: prose
-
-id: building
-toc: "Building"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 28
-    next:
-    - title: Yellow
-      link: yellow
-    - title: Cereal
-      link: cereal
-    prev:
-    - title: Stagnant
-      link: stagnant
-    - title: Axe
-      link: axe
-...
-
-_[ART and CRAFT][] are only the inside and outside of the same building._
-_The ceiling is_---here he put his eraser to his bottom lip, thinking.
-He crossed out _~~The ceiling is.~~_
-_The floor is reality and the ceiling is ~~aspiration~~ ~~desire~~ that which is desired.
-CRAFT is building a [chair][] from wood.
-ART is using the wood as a substrate for an emotional [message to a future person][], the READER / VIEWER._
-
-_The important thing is they are both made of wood.
-The important thing is they were both, at one point, alive natural things that grew and changed and pushed their way out of the dirt into the air.
-They formed buildings out of the air.
-They didn't even try._
-
-_What separates us from them, the trees?
-[We have to try.][]
-We must labor to create our ART, [our buildings of air][].
-We lay them out brick by brick, we build them up by disintegrating trees and forming them again into what they were before.
-Why must we do this?  Are there any advantages to this human method?_
-
-_Our advantage is [memory][].
-Our advantage is the reaching-out over space and time to others with our words, our ART.
-Our buildings last for generations, and after they are demolished they are written about, [photographs][] are taken, we **remember**.
-The [act of memory][] is our only ART._
-
-[ART and CRAFT]: toilet.html
-[chair]: boar.html
-[message to a future person]: poetry-time.html
-[We have to try.]: plant.html
-[our buildings of air]: common-titles.html
-[photographs]: man.html
-[memory]: ouroboros_memory.html
-[act of memory]: riptide_memory.html
+a
+a
+a
+about
+act
+advantage
+advantage
+advantages
+after
+again
+air
+air
+air
+alive
+an
+and
+and
+and
+and
+and
+and
+and
+and
+any
+are
+are
+are
+are
+are
+are
+art
+art
+art
+art
+art
+as
+aspiration
+at
+before
+both
+both
+bottom
+brick
+brick
+build
+building
+building
+building
+buildings
+buildings
+buildings
+by
+by
+ceiling
+ceiling
+ceiling
+chair
+changed
+craft
+craft
+create
+crossed
+demolished
+desire
+desired
+did
+dirt
+disintegrating
+do
+emotional
+eraser
+even
+floor
+for
+for
+formed
+forming
+from
+from
+future
+generations
+grew
+have
+he
+he
+here
+his
+his
+human
+important
+important
+inside
+into
+into
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+labor
+last
+lay
+lip
+made
+memory
+memory
+message
+method
+must
+must
+natural
+not
+of
+of
+of
+of
+of
+of
+one
+only
+only
+others
+our
+our
+our
+our
+our
+our
+our
+our
+out
+out
+out
+out
+outside
+over
+person
+photographs
+point
+pushed
+put
+reaching-out
+reader
+reality
+remember
+same
+separates
+space
+substrate
+taken
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+their
+them
+them
+them
+them
+there
+they
+they
+they
+they
+they
+they
+they
+thing
+thing
+things
+thinking
+this
+this
+time
+to
+to
+to
+to
+to
+to
+trees
+trees
+try
+try
+up
+us
+using
+viewer
+way
+we
+we
+we
+we
+we
+we
+were
+were
+what
+what
+which
+why
+with
+wood
+wood
+wood
+words
+written

@@ -1,54 +1,120 @@
----
-title: Paul
-genre: prose
-
-id: paul
-toc: "Paul"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 38
-    next:
-    - title: Fire
-      link: fire
-    - title: Phone
-      link: phone
-    prev:
-    - title: Father
-      link: father
-    - title: Options
-      link: options
-...
-
-> CONTENTS OF THE SHED
->
-> - typewriter
-> - writing desk
-> - notecards (top drawer of desk)
-> - [pen][] (fountain)
-> - inkpot (empty)
-> - wood (a lot, more out back)
-> - bare lightbulb
-> - candle
-> - wooden shelf with tools:
->     - claw hammer
->     - screwdriver
->     - prybar
->     - 2x wrench (different kinds)
-> - tiller machine
-> - push lawnmower
-> - hatchet
-> - axe
-
-He typed the list in the typewriter and looked around some more.
-He wanted to make sure he didn't miss anything.
-Finally it hit him and he smiled.
-He typed one more line, stood up, and went out of the shed.
-
-> - Paul Bunyon
-
-He got some kerosene from under the house, poured it around the base of the shed, lit a cigarette.
-He smoked half of it and threw it down to start the fire.
-
-[pen]: howithappened.html
+2x
+a
+a
+and
+and
+and
+and
+anything
+around
+around
+axe
+back
+bare
+base
+bunyon
+candle
+cigarette
+claw
+contents
+desk
+desk
+did
+different
+down
+drawer
+empty
+finally
+fire
+fountain
+from
+got
+half
+hammer
+hatchet
+he
+he
+he
+he
+he
+he
+he
+him
+hit
+house
+in
+inkpot
+it
+it
+it
+it
+kerosene
+kinds
+lawnmower
+lightbulb
+line
+list
+lit
+looked
+lot
+machine
+make
+miss
+more
+more
+more
+not
+notecards
+of
+of
+of
+of
+of
+one
+out
+out
+paul
+paul
+pen
+poured
+prybar
+push
+screwdriver
+shed
+shed
+shed
+shelf
+smiled
+smoked
+some
+some
+start
+stood
+sure
+the
+the
+the
+the
+the
+the
+the
+the
+threw
+tiller
+to
+to
+tools
+top
+typed
+typed
+typewriter
+typewriter
+under
+up
+wanted
+went
+with
+wood
+wooden
+wrench
+writing

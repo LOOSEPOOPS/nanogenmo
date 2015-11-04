@@ -1,74 +1,369 @@
----
-title: Exasperated
-genre: verse
-
-id: exasperated
-toc: "Exasperated"
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 8
-    next:
-    - title: The Death Zone
-      link: death-zone
-    - title: Boy on the bus
-      link: boy_bus
-    prev:
-    - title: AMBER alert
-      link: amber-alert
-    - title: The Death Zone
-      link: death-zone
-...
-
-| I didn't write this sestina yesterday.
-| It's the first time I fell behind in my task
-| and hopefully, the only time it will.
-| This means that today I must write two
-| sestinas.  If I don't write them today, I
-| will have to write two later down the line.
-
-| Although I feel I'm slogging through each line
-| I think I'm doing better every day,
-| though maybe this is wishful thinking: I
-| showed my friend my just-completed task
-| two days ago (my God, was it two
-| entire days?  I've no idea what I'll
-
-| do [after thirty-nine days][].  I think I'll
-| feel like [Inigo Montoya][], who'd been in the line
-| of revenging for so long, he didn't know what to
-| do with the rest of his life), and he deigned
-| to be polite, but I could tell the task
-| was hard for him.  He told me finally that I
-
-| had made a noble effort, but that ultimately I
-| failed.  [So my question][]: when will
-| I be a decent sestina writer?  For this is my task.
-| Maybe if I just keep cranking out line after line
-| I'll finally figure it out.  Maybe one more day
-| or another week will do it, or maybe I'll need two,
-
-| or maybe it'll never happen.  Maybe a sestina's too
-| involved, too much [weaving][] of words too fine, and I
-| will never write a good one, even on my best day,
-| even if I employ all my skill and all my will.
-| I'm not used to writing poems with thirty-nine lines,
-| that must be the problem, must be why this task
-
-| is Herculean.  He only had to finish twelve tasks,
-| and I have one less one thousand, five hundred twenty-two,
-| and it's nothing but complaining lines
-| about [how hard it is to be a person][].  I
-| am getting sick of myself with these poems, and will
-| soon be loathe to get out of bed every day.
-
-| But I tasked myself with this, which may be the worst I
-| ever do to myself.  I thought a poem NaNoWriMo would
-| be fun, would line my resume, give me something I could publish someday.
-
-[after thirty-nine days]: http://biblehub.com/2_corinthians/11-24.htm
-[Inigo Montoya]: death-zone.html
-[So my question]: question.html
-[weaving]: tapestry.html
-[how hard it is to be a person]: deathstrumpet.html
+a
+a
+a
+a
+a
+a
+about
+after
+after
+ago
+all
+all
+although
+am
+am
+am
+am
+and
+and
+and
+and
+and
+and
+and
+another
+be
+be
+be
+be
+be
+be
+be
+be
+bed
+been
+behind
+best
+better
+but
+but
+but
+but
+complaining
+could
+could
+cranking
+day
+day
+day
+day
+days
+days
+days
+decent
+deigned
+did
+did
+do
+do
+do
+do
+do
+doing
+down
+each
+effort
+employ
+entire
+even
+even
+ever
+every
+every
+exasperated
+failed
+feel
+feel
+fell
+figure
+finally
+finally
+fine
+finish
+first
+five
+for
+for
+for
+friend
+fun
+get
+getting
+give
+god
+good
+had
+had
+happen
+hard
+hard
+have
+have
+have
+he
+he
+he
+he
+herculean
+him
+his
+hopefully
+how
+hundred
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+idea
+if
+if
+if
+in
+in
+inigo
+involved
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+just
+just-completed
+keep
+know
+later
+less
+life
+like
+line
+line
+line
+line
+line
+line
+lines
+lines
+loathe
+long
+made
+may
+maybe
+maybe
+maybe
+maybe
+maybe
+maybe
+me
+me
+means
+montoya
+more
+much
+must
+must
+must
+my
+my
+my
+my
+my
+my
+my
+my
+my
+my
+myself
+myself
+myself
+nanowrimo
+need
+never
+never
+no
+noble
+not
+not
+not
+not
+nothing
+of
+of
+of
+of
+of
+on
+one
+one
+one
+one
+only
+only
+or
+or
+or
+out
+out
+out
+person
+poem
+poems
+poems
+polite
+problem
+publish
+question
+rest
+resume
+revenging
+s
+sestina
+sestina
+sestina
+sestinas
+showed
+sick
+skill
+slogging
+so
+so
+someday
+something
+soon
+task
+task
+task
+task
+task
+tasked
+tasks
+tell
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+them
+these
+think
+think
+thinking
+thirty-nine
+thirty-nine
+this
+this
+this
+this
+this
+this
+though
+thought
+thousand
+through
+time
+time
+to
+to
+to
+to
+to
+to
+to
+to
+today
+today
+told
+too
+too
+too
+twelve
+twenty-two
+two
+two
+two
+two
+two
+ultimately
+used
+was
+was
+weaving
+week
+what
+what
+when
+which
+who
+why
+will
+will
+will
+will
+will
+will
+will
+will
+will
+will
+will
+will
+wishful
+with
+with
+with
+with
+words
+worst
+would
+would
+would
+write
+write
+write
+write
+write
+writer
+writing
+yesterday

@@ -1,35 +1,155 @@
----
-title: The moon is gone and in its place a mirror
-genre: prose
-
-id: moongone
-toc: "The moon is gone and in its place a mirror"
-
-ekphrastic:
-    image: moongone.jpg
-    title: The moon is gone
-    link: 'http://apod.nasa.gov/apod/ap120102.html'
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 18
-    prev:
-    - title: Ronald McDonald
-      link: ronaldmcdonald
-    next:
-    - title: The mountain
-      link: mountain
-...
-
-The moon is gone and in its place a mirror.
-Looking at the night sky now yields nothing but the viewer's own face as viewed from a million miles, surrounded by the landscape he is only vaguely aware of being surrounded by.
-He believes that he is [alone][], surrounded by desert and mountain, but behind him---he now sees it---someone is sneaking up on him.
-He spins around fast, but no one is there on [Earth][].
-He looks back up and they are yet closer in the night sky.
-Again he looks over his shoulder but there is nothing, not even a desert mouse.
-As he looks up again he realizes it's a cloud above him, which due to optics has looked like someone else.
-The cloud blocks out the moon which is now a mirror, and the viewer is completely alone.
-
-[alone]: apollo11.html
-[Earth]: serengeti.html
+a
+a
+a
+a
+a
+a
+above
+again
+again
+alone
+alone
+and
+and
+and
+and
+and
+are
+around
+as
+as
+at
+aware
+back
+behind
+being
+believes
+blocks
+but
+but
+but
+but
+by
+by
+by
+closer
+cloud
+cloud
+completely
+desert
+desert
+due
+earth
+else
+even
+face
+fast
+from
+gone
+gone
+has
+he
+he
+he
+he
+he
+he
+he
+he
+he
+him
+him
+him
+his
+in
+in
+in
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+its
+its
+landscape
+like
+looked
+looking
+looks
+looks
+looks
+miles
+million
+mirror
+mirror
+mirror
+moon
+moon
+moon
+mountain
+mouse
+night
+night
+no
+not
+nothing
+nothing
+now
+now
+now
+of
+on
+on
+one
+only
+optics
+out
+over
+own
+place
+place
+realizes
+s
+sees
+shoulder
+sky
+sky
+sneaking
+someone
+someone
+spins
+surrounded
+surrounded
+surrounded
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+there
+there
+they
+to
+up
+up
+up
+vaguely
+viewed
+viewer
+viewer
+which
+which
+yet
+yields

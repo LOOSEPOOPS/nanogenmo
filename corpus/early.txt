@@ -1,53 +1,236 @@
----
-title: Early
-genre: prose
-
-id: early
-toc: "Early"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 35
-    next:
-    - title: Toothpaste
-      link: toothpaste
-    - title: Father
-      link: father
-    prev:
-    - title: Stump
-      link: stump
-    - title: Dream
-      link: dream
-...
-
-_YOU CANNOT DISCOVER ART ART MUST BE CREATED_ he sat on the couch at home while his mother [watched TV][] and smoked.
-[Dinner had been chicken][] and peas with [milk][] and afterward Paul and his mother sat on opposite ends of the couch.
-At intervals she would look sideways at Paul writing.
-He pretended not to notice.
-
-_ART = ARTIFICE_ he wrote.
-_ARTIFICE MEANS UNNATURAL.
-ARTIFICE MEANS BUILT.
-TO BUILD MEANS TO [FIND A PATTERN][] & FIND A PATTERN IS WHAT WE ARE GOOD AT._
-He thought about this while someone else won a car.
-
-"Do you think humans are good at finding patterns because we are hunters" he asked his mother.
-She [looked sideways][] at him and said "Sure Paul."
-"Early on in our evolution we were hunters right?
-And to hunt we had to see the patterns in seemingly random events, like where the gazelle went each year"
-"Paul I'm trying to watch TV.
-If you're going to write this stuff go do it in your room you're distracting."
-Paul got up and went to his room and lay down on his bed.
-
-"If the gazelle went [to the same place][] every year" he thought "did they know the pattern too?
-Or was it random for them, did they think each year 'This seems like a good spot let's graze here' without knowing?"
-
-He wrote _PATTERN = MEMORY_ in his notebook.
-
-[watched TV]: real-writer.html
-[Dinner had been chicken]: when-im-sorry-i.html
-[milk]: shipwright.html
-[FIND A PATTERN]: fire.html
-[looked sideways]: movingsideways.html
-[to the same place]: serengeti.html
+a
+a
+a
+a
+about
+afterward
+am
+and
+and
+and
+and
+and
+and
+and
+and
+and
+are
+are
+are
+are
+are
+art
+art
+art
+artifice
+artifice
+artifice
+asked
+at
+at
+at
+at
+at
+at
+be
+because
+bed
+been
+build
+built
+cannot
+car
+chicken
+couch
+couch
+created
+did
+did
+dinner
+discover
+distracting
+do
+do
+down
+each
+each
+early
+early
+else
+ends
+events
+every
+evolution
+find
+find
+finding
+for
+gazelle
+gazelle
+go
+going
+good
+good
+good
+got
+graze
+had
+had
+he
+he
+he
+he
+he
+he
+he
+here
+him
+his
+his
+his
+his
+his
+his
+home
+humans
+hunt
+hunters
+hunters
+i
+if
+if
+in
+in
+in
+in
+intervals
+is
+it
+it
+know
+knowing
+lay
+let
+like
+like
+look
+looked
+means
+means
+means
+memory
+milk
+mother
+mother
+mother
+must
+not
+notebook
+notice
+of
+on
+on
+on
+on
+opposite
+or
+our
+pattern
+pattern
+pattern
+pattern
+patterns
+patterns
+paul
+paul
+paul
+paul
+paul
+peas
+place
+pretended
+random
+random
+right
+room
+room
+s
+said
+same
+sat
+sat
+see
+seemingly
+seems
+she
+she
+sideways
+sideways
+smoked
+someone
+spot
+stuff
+sure
+the
+the
+the
+the
+the
+the
+the
+them
+they
+they
+think
+think
+this
+this
+this
+thought
+thought
+to
+to
+to
+to
+to
+to
+to
+to
+to
+too
+trying
+tv
+tv
+unnatural
+up
+was
+watch
+watched
+we
+we
+we
+we
+went
+went
+went
+were
+what
+where
+while
+while
+with
+without
+won
+would
+write
+writing
+wrote
+wrote
+year
+year
+year
+you
+you
+you
+you
+your

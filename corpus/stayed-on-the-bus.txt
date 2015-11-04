@@ -1,28 +1,64 @@
----
-title: Stayed on the bus too long
-genre: verse
-
-id: stayed-on-the-bus
-toc: "Stayed on the bus too long"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| It was a [gamble][]
-| I lost---thought I could get closer
-| than the library, stayed
-| on past the admin building,
-| back down the hill to my beginning,
-| the driver's second-to-last stop.
-| [I have to walk now][],
-| through the wind and sun, past
-| [traffic][] moving merrily along
-| taking their own gambles
-| staying on or getting off
-| too soon.
-
-[gamble]: hard-game.html
-[I have to walk now]: lappel-du-vide.html
-[traffic]: theoceanoverflowswithcamels.html
+a
+admin
+along
+and
+back
+beginning
+building
+bus
+closer
+could
+down
+driver
+gamble
+gambles
+get
+getting
+have
+hill
+i
+i
+i
+it
+library
+long
+lost
+merrily
+moving
+my
+now
+off
+on
+on
+on
+or
+own
+past
+past
+s
+second-to-last
+soon
+stayed
+stayed
+staying
+stop
+sun
+taking
+than
+the
+the
+the
+the
+the
+the
+their
+thought
+through
+to
+to
+too
+too
+traffic
+walk
+was
+wind

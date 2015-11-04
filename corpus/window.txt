@@ -1,59 +1,245 @@
----
-title: Window
-genre: prose
-
-id: window
-toc: "Window"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 18
-    next:
-    - title: Question
-      link: question
-    - title: Writing
-      link: writing
-    prev:
-    - title: Tapestry
-      link: tapestry
-    - title: Wallpaper
-      link: wallpaper
-...
-
-_**[HYMN 386: JOKES][]**_
-
-_"[Tell us a joke][]" everyone asks of the clown.
-He sits on a log and begins to think.
-Everyone waits gap-mouthed in anticipation.
-A slight breeze ruffles the clown's coat, his pompom buttons, [his bright red hair][].
-His nose becomes redder in the cold.
-Hours pass.
-All but the most dedicated of joke listeners leave him to rot ~~for all they may care~~._
-
-_The clown opens his mouth to speak but no words come out.
-A tear falls down his cheek, and another.
-He begins to sob.
-The last joke listener comes over to comfort him.
-She puts a hand on his shoulder.
-He looks up at her, red face, red nose, white lips, and says ~~"Thank you."~~
-He vanishes from the clearing.
-The last joke listener sits on the log and looks up at the sky.
-[The moon is full.][]
-The world creaks on its axis._
-
-Paul looked up to the space on the wall where a window should be.
-The shadow of his face wavered in the candle light.
-He looked back down at the card he'd been writing on.
-He read the card.
-He crossed out the _for all they may care_ in the first paragraph, and _"Thank you"_ from the second one.
-"[What could he say][]" he thought to himself.
-"What could he possibly say to her."
-He went outside to clear his head with a cigarette.
-He took his axe with him this time.
-
-[Tell us a joke]: joke.html
-[HYMN 386: JOKES]: hymnal.html
-[his bright red hair]: ronaldmcdonald.html
-[The moon is full.]: moon-drowning.html
-[What could he say]: elegyforanalternateself.html
+386
+a
+a
+a
+a
+a
+a
+a
+all
+all
+all
+and
+and
+and
+and
+and
+another
+anticipation
+asks
+at
+at
+at
+axe
+axis
+back
+be
+becomes
+been
+begins
+begins
+breeze
+bright
+but
+but
+buttons
+candle
+card
+card
+care
+care
+cheek
+cigarette
+clear
+clearing
+clown
+clown
+clown
+coat
+cold
+come
+comes
+comfort
+could
+could
+creaks
+crossed
+dedicated
+down
+down
+everyone
+everyone
+face
+face
+falls
+first
+for
+for
+from
+from
+full
+gap-mouthed
+hair
+hand
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+head
+her
+her
+him
+him
+him
+himself
+his
+his
+his
+his
+his
+his
+his
+his
+his
+hours
+hymn
+in
+in
+in
+in
+is
+its
+joke
+joke
+joke
+joke
+jokes
+last
+last
+leave
+light
+lips
+listener
+listener
+listeners
+log
+log
+looked
+looked
+looks
+looks
+may
+may
+moon
+most
+mouth
+no
+nose
+nose
+of
+of
+of
+on
+on
+on
+on
+on
+on
+one
+opens
+out
+out
+outside
+over
+paragraph
+pass
+paul
+pompom
+possibly
+puts
+read
+red
+red
+red
+redder
+rot
+ruffles
+s
+say
+say
+says
+second
+shadow
+she
+should
+shoulder
+sits
+sits
+sky
+slight
+sob
+space
+speak
+tear
+tell
+thank
+thank
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+they
+they
+think
+this
+thought
+time
+to
+to
+to
+to
+to
+to
+to
+to
+to
+took
+up
+up
+up
+us
+vanishes
+waits
+wall
+wavered
+went
+what
+what
+where
+white
+window
+window
+with
+with
+words
+world
+would
+writing
+you
+you

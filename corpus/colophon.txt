@@ -1,55 +1,200 @@
----
-title: Colophon
-id: colophon
-genre: prose
-
-project:
-    title: Front matter
-    class: front-matter
-...
-
-_Autocento of the breakfast table_ is a hypertextual exploration
-of the clockwork of inspiration, revision, and obsession.
-It represents a compilation of most of my writing,
-linked together along thematic lines into a sort of whole.
-It lives on the web.
-Instead of hand-coding all of the HTML files you're reading now,
-I've relied on a process that leverages open-source technologies
-to publish my work onto a web platform.
-
-The [source files][] are authored in [Vim][]
-using an [extended version][] of [Markdown][].
-It's compiled into the HTML you're reading,
-as well as a few other formats,
-with [Pandoc][], a document-conversion tool.
-The site is hosted on [Github][] and [Namecheap][].
-You can view the repository at <http://github.com/duckwork/autocento>.
-
-I use a [Makefile][] to compile the text source files
-into HTML, and to generate a series of [appendices][]
-and [other site][] [functionality][]
-with the help of a [compilation shell script][].
-
-I use this system because it's fairly simple, extensible, and open.
-It's available for anyone to examine, learn from, and use.
-See the [license][] for more details.
-
-[Email me][] with questions or accolades,
-or submit a [pull request][] or [issue][] on Github.
-
-[source files]: https://github.com/duckwork/autocento/tree/gh-pages/text
-[Vim]: http://www.vim.org
-[extended version]: http://johnmcfarlane.net/pandoc/README.html#pandocs-markdown
-[Markdown]: http://daringfireball.net/projects/markdown/
-[Pandoc]: http://johnmcfarlane.net/pandoc/
-[Github]: https://github.com
-[Namecheap]: http://namecheap.com
-[Makefile]: https://github.com/duckwork/autocento/blob/gh-pages/makefile
-[appendices]: hapax.html
-[other site]: https://github.com/duckwork/autocento/blob/gh-pages/scripts/randomize.js
-[functionality]: backlinks/in-bed.html
-[compilation shell script]: https://github.com/duckwork/autocento/blob/gh-pages/scripts/compile.sh
-[license]: license.html
-[Email me]: mailto:case.duckworth+autocento@gmail.com
-[pull request]: https://github.com/duckwork/autocento/pulls
-[issue]: https://github.com/duckwork/autocento/issues
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+accolades
+all
+along
+an
+and
+and
+and
+and
+and
+and
+anyone
+appendices
+are
+are
+are
+as
+as
+at
+authored
+autocento
+autocento
+available
+because
+breakfast
+can
+clockwork
+colophon
+com
+compilation
+compilation
+compile
+compiled
+details
+document-conversion
+duckwork
+email
+examine
+exploration
+extended
+extensible
+fairly
+few
+files
+files
+files
+for
+for
+formats
+from
+functionality
+generate
+github
+github
+github
+hand-coding
+have
+help
+hosted
+html
+html
+html
+http
+hypertextual
+i
+i
+i
+in
+inspiration
+instead
+into
+into
+into
+is
+is
+is
+is
+is
+issue
+it
+it
+it
+it
+it
+learn
+leverages
+license
+lines
+linked
+lives
+makefile
+markdown
+me
+more
+most
+my
+my
+namecheap
+now
+obsession
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+of
+on
+on
+on
+on
+onto
+open
+open-source
+or
+or
+or
+other
+other
+pandoc
+platform
+process
+publish
+pull
+questions
+reading
+reading
+relied
+repository
+represents
+request
+revision
+script
+see
+series
+shell
+simple
+site
+site
+sort
+source
+source
+submit
+system
+table
+technologies
+text
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+thematic
+this
+to
+to
+to
+to
+together
+tool
+use
+use
+use
+using
+version
+view
+vim
+web
+web
+well
+whole
+with
+with
+with
+work
+writing
+you
+you
+you

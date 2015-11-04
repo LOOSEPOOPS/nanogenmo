@@ -1,64 +1,153 @@
----
-title: The Death Zone
-genre: verse
-
-id: death-zone
-toc: "The death zone"
-
-epigraph:
-    content: And my life became death.
-    attrib: Philip Gould
-    link: http://www.npr.org/blogs/13.7/2013/11/19/245996903/embracing-life-and-death
-
-ekphrastic:
-    image: gould.png
-    title: Philip Gould
-    link: 'http://www.npr.org/blogs/13.7/2013/11/19/245996903/embracing-life-and-death'
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 7
-    next:
-    - title: The Big Dipper
-      link: big-dipper
-    - title: Exasperated
-      link: exasperated
-    prev:
-    - title: Exasperated
-      link: exasperated
-    - title: AMBER alert
-      link: amber-alert
-...
-
-| When I think of death I think
-| of Peter Falk in _The Princess Bride_ patting
-| [his pockets][] as he leaves the room
-
-| Life is a series of doors or so
-| they say but I ask them this
-| where does that last door lead?
-
-| For Falk maybe it leads backstage
-| a black-walled catered affair with stage
-| lights slowly baking stale muffins
-
-| [Sweaty cheese][] leaking onto dried-out
-| grapes a chocolate fountain clogged
-| by some errant strawberry crown
-
-| but this is not where it leads for you or
-| for me that door opens onto darkness marked
-| only by a trellis or the lid of a casket
-
-| the door of the [earth's womb][] opening
-| finally to accept us and with us the dirt
-| not to grow more strawberries for Falk
-
-| but to pad his feet as he walks overhead
-| to visit someone he certainly cares about
-| but whose name is lost to posterity.
-
-[his pockets]: creation-myth.html
-[Sweaty cheese]: i-wanted-to-tell-you-something.html
-[earth's womb]: about-the-author.html
+a
+a
+a
+a
+a
+about
+accept
+affair
+and
+as
+as
+ask
+backstage
+baking
+black-walled
+bride
+but
+but
+but
+but
+by
+by
+cares
+casket
+catered
+certainly
+cheese
+chocolate
+clogged
+crown
+darkness
+death
+death
+dirt
+does
+door
+door
+door
+doors
+dried-out
+earth
+errant
+falk
+falk
+falk
+feet
+finally
+for
+for
+for
+for
+fountain
+grapes
+grow
+he
+he
+he
+his
+his
+i
+i
+i
+in
+is
+is
+is
+it
+it
+last
+lead
+leads
+leads
+leaking
+leaves
+lid
+life
+lights
+lost
+marked
+maybe
+me
+more
+muffins
+name
+not
+not
+of
+of
+of
+of
+of
+only
+onto
+onto
+opening
+opens
+or
+or
+or
+overhead
+pad
+patting
+peter
+pockets
+posterity
+princess
+room
+s
+say
+series
+slowly
+so
+some
+someone
+stage
+stale
+strawberries
+strawberry
+sweaty
+that
+that
+the
+the
+the
+the
+the
+the
+the
+them
+they
+think
+think
+this
+this
+to
+to
+to
+to
+to
+trellis
+us
+us
+visit
+walks
+when
+where
+where
+whose
+with
+with
+womb
+you
+zone

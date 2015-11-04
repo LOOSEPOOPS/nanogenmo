@@ -1,52 +1,270 @@
----
-title: Creation myth
-genre: verse
-
-id: creation-myth
-toc: "Creation myth"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| So two hyperintelligent pandimensional beings
-| walk into a bar.  One turns to the other and says,
-| "Did you remember to check the end state
-| of that simulation we were running?"  The other
-| says, "No, I thought that you did?"  To which
-| the first replies, "[Oh shit][], we missed it.
-| I suppose we must do all of this again.  Barkeep,
-
-| two beers please."  The bartender nods in that way
-| that bartenders do, pours the two beers,
-| expertly, by the way, just so, and hands them
-| to the first [hyperintelligent pandimensional][] being.
-| The second one pulls a few singles out of his
-| wallet, places them on the bar, and the pair
-| turn around and begin walking toward a table
-| in the middle of the mostly-empty bar.  The bar-
-| tender picks up the money, fans it out, frowns,
-| and calls to his patrons' backs: "Hey, this
-| isn't enough!"  The two turn around simultan-
-| eously, with parity, and stare at him.  A beat.
-
-| One of them, the one without the beer, breaks
-| the silence by exclaiming, "Oh dear god, I'm
-| sorry!  I didn't know your prices went up since
-| last time.  What do I owe you?"  The bartender
-| says, "Oh, just another [dollar][]-fifty."  The being
-| reaches in his back pocket, slides out his
-| wallet, looks in smiling, and frowns when he sees
-| it's empty.  He looks to the other and says,
-| "You got a [buck][]-fifty I can borrow?"
-
-| The second hyperintelligent pandimensional being
-| considers this.  He sets the beers down
-| on the table, pulls out his own wallet, opens
-| it, and frowns.  "I'm broke too," he says.
-
-[hyperintelligent pandimensional]: http://hitchhikers.wikia.com/wiki/Mice
-[Oh shit]: movingsideways.html
-[dollar]: one-hundred-lines.html
-[buck]: plant.html
+a
+a
+a
+a
+a
+again
+all
+am
+am
+and
+and
+and
+and
+and
+and
+and
+and
+and
+another
+around
+around
+at
+back
+backs
+bar
+bar
+bar
+bar
+barkeep
+bartender
+bartender
+bartenders
+beat
+beer
+beers
+beers
+beers
+begin
+being
+being
+being
+beings
+borrow
+breaks
+broke
+buck-fifty
+by
+by
+calls
+can
+check
+considers
+creation
+dear
+did
+did
+did
+do
+do
+do
+dollar-fifty
+down
+empty
+end
+enough
+eously
+exclaiming
+expertly
+fans
+few
+first
+first
+frowns
+frowns
+frowns
+god
+got
+hands
+he
+he
+he
+he
+hey
+him
+his
+his
+his
+his
+his
+hyperintelligent
+hyperintelligent
+hyperintelligent
+i
+i
+i
+i
+i
+i
+i
+in
+in
+in
+in
+into
+is
+is
+it
+it
+it
+it
+just
+just
+know
+last
+looks
+looks
+middle
+missed
+money
+mostly-empty
+must
+myth
+no
+nods
+not
+not
+of
+of
+of
+of
+of
+oh
+oh
+oh
+on
+on
+one
+one
+one
+one
+opens
+other
+other
+other
+out
+out
+out
+out
+owe
+own
+pair
+pandimensional
+pandimensional
+pandimensional
+parity
+patrons
+picks
+places
+please
+pocket
+pours
+prices
+pulls
+pulls
+reaches
+remember
+replies
+running
+says
+says
+says
+says
+says
+second
+second
+sees
+sets
+shit
+silence
+simulation
+simultan
+since
+singles
+slides
+smiling
+so
+so
+sorry
+stare
+state
+suppose
+table
+table
+tender
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+them
+them
+this
+this
+this
+thought
+time
+to
+to
+to
+to
+to
+to
+too
+toward
+turn
+turn
+turns
+two
+two
+two
+two
+up
+up
+walk
+walking
+wallet
+wallet
+wallet
+way
+way
+we
+we
+we
+went
+were
+what
+when
+which
+with
+without
+you
+you
+you
+you
+your

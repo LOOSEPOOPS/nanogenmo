@@ -1,60 +1,255 @@
----
-title: Tapestry
-genre: prose
-
-id: tapestry
-toc: "Tapestry"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 17
-    next:
-    - title: Window
-      link: window
-    - title: Toilet
-      link: toilet
-    prev:
-    - title: Phone
-      link: phone
-    - title: Swear
-      link: swear
-...
-
-_Apparently typewriters need ribbon._
-_Apparently ribbon is incredibly hard to find anymore because no one uses typewriters.
-Apparently I am writing my hymns from now on._
-So he was back to calling his notes "hymns."
-He looked up "hymns" in the dictionary.
-It said that a hymn was "an ode or song of praise or adoration."
-Praise or adoration to what? he asked himself.
-He thought maybe furniture.
-There was still a lot of notfurniture in what he was again calling his Writing Shack.
-
-The dictionary also had this to say about "hymn": that it was possibly related to the old Greek word for "[weave][]."
-"[Weave what][]" Paul wondered to himself.
-He wrote this down on a new notecard.
-_Apparently "hymn" means weave somehow.
-Or it used to.
-Or its cousin did.
-What is it weaving?
-Who is it weaving for?
-I remember in school we talked about Odysseus and his wife Penelope, who wove a tapestry every day just to take it apart at night.
-I forget why._
-
-_Maybe she wove the tapestry for Odysseus.
-Maybe she wove it for herself.
-What did she weave it of?
-[Memory][], maybe?
-[Or dream][]?
-I think these words make a kind of tapestry, or at least the thread it will be made of.
-I will weave a hymn to the gods of Literature, out of fiction.
-My furniture was a try at weaving, but I am shit at furniture.
-So writing it is again._
-
-He wrote _**NOTES FOR A HYMN**_ at the top of this notecard.
-
-[weave]: likingthings.html
-[Weave what]: roughgloves.html
-[Memory]: ouroboros_memory.html
-[Or dream]: in-bed.html
+a
+a
+a
+a
+a
+a
+a
+a
+about
+about
+adoration
+adoration
+again
+again
+also
+am
+am
+an
+and
+anymore
+apart
+apparently
+apparently
+apparently
+apparently
+asked
+at
+at
+at
+at
+at
+back
+be
+because
+but
+calling
+calling
+cousin
+day
+dictionary
+dictionary
+did
+did
+down
+dream
+every
+fiction
+find
+for
+for
+for
+for
+for
+forget
+from
+furniture
+furniture
+furniture
+gods
+greek
+had
+hard
+he
+he
+he
+he
+he
+he
+he
+herself
+himself
+himself
+his
+his
+his
+hymn
+hymn
+hymn
+hymn
+hymn
+hymns
+hymns
+hymns
+i
+i
+i
+i
+i
+i
+in
+in
+in
+incredibly
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+its
+just
+kind
+least
+literature
+looked
+lot
+made
+make
+maybe
+maybe
+maybe
+maybe
+means
+memory
+my
+my
+need
+new
+night
+no
+notecard
+notecard
+notes
+notes
+notfurniture
+now
+ode
+odysseus
+odysseus
+of
+of
+of
+of
+of
+of
+of
+of
+old
+on
+on
+one
+or
+or
+or
+or
+or
+or
+or
+out
+paul
+penelope
+possibly
+praise
+praise
+related
+remember
+ribbon
+ribbon
+said
+say
+school
+shack
+she
+she
+she
+shit
+so
+so
+somehow
+song
+still
+take
+talked
+tapestry
+tapestry
+tapestry
+tapestry
+that
+that
+the
+the
+the
+the
+the
+the
+the
+there
+these
+think
+this
+this
+this
+thought
+thread
+to
+to
+to
+to
+to
+to
+to
+to
+to
+top
+try
+typewriters
+typewriters
+up
+used
+uses
+was
+was
+was
+was
+was
+was
+we
+weave
+weave
+weave
+weave
+weave
+weaving
+weaving
+weaving
+what
+what
+what
+what
+what
+who
+who
+why
+wife
+will
+will
+wondered
+word
+words
+wove
+wove
+wove
+writing
+writing
+writing
+wrote
+wrote

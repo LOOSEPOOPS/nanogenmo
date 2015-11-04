@@ -1,76 +1,369 @@
----
-title: Something
-subtitle: about the nature of poetry and time
-genre: verse
-
-id: poetry-time
-toc: "Something about the nature of poetry and time"
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 5
-    next:
-    - title: The Moon is drowning
-      link: moon-drowning
-    - title: AMBER alert
-      link: amber-alert
-    prev:
-    - title: The Big Dipper
-      link: big-dipper
-    - title: Worse looking over
-      link: worse-looking-over
-...
-
-| I'm writing this now because I have to.
-| Not in some "my soul yearns for this and
-| I can't help it" way, but in the way that this
-| moment is structured as such, that it is
-| crystallized this way, me writing this, and later
-| you reading it, now for you, later for me,
-
-| and this tenuous connection mates me
-| and you forever, combined with each other, two
-| [electrons momentarily entwined][].  Later,
-| when I'm dead or far too famous for you, and
-| you're in school, reading my words because it is
-| required reading, I want you to remember this
-
-| connection we've always had, this
-| [spider's thread][] hanging between you and me.
-| Which of us is the spider and which is
-| the fly still remains to be seen.  To
-| eat, perchance to fly: all of that and
-| more.  We can settle all of this later.
-
-| Yes, it is you I'm thinking of in your later
-| time: you specifically, not another.  This
-| is true for all $x$ such that $x > 0$ and
-| $x$ is a real person, though it doesn't bother me
-| to write to a fictional figure or to
-| [a figment][], maybe, of my imagination.  This is
-
-| what you are right now, anyway, [dear Reader][], is
-| it not?  I'm talking about my now, of course, not later,
-| which is your now.  Later will be my now too,
-| and maybe I'm ultimately writing to a future part of this
-| self: you could very well be me.
-| In fact, you probably are me, [some other version][], and
-
-| I am you in the past, or what you could've been, and
-| at the same time, this isn't true.  Everything is,
-| and nothing isn't.  The difference between "you" and "me"
-| is in name only.  Maybe you'll get this later,
-| [when you're older][], when I'm older, when all of this
-| is something we'll look fondly back to,
-
-| because I do hope to meet you, although much later,
-| and I hope your feeling is the same.  All this
-| talk on me and you and you and me we'll keep between us two.
-
-[electrons momentarily entwined]: treatise.html
-[spider's thread]: last-passenger.html
-[a figment]: epigraph.html
-[some other version]: elegyforanalternateself.html
-[when you're older]: found-typewriter-poem.html
-[dear Reader]: real-writer.html
+0
+a
+a
+a
+a
+about
+about
+all
+all
+all
+all
+all
+although
+always
+am
+am
+am
+am
+am
+am
+am
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+and
+another
+anyway
+are
+are
+are
+are
+as
+at
+back
+be
+be
+be
+because
+because
+because
+been
+between
+between
+between
+bother
+but
+ca
+can
+combined
+connection
+connection
+could
+could
+course
+crystallized
+dead
+dear
+difference
+do
+does
+each
+eat
+electrons
+entwined
+everything
+fact
+famous
+far
+feeling
+fictional
+figment
+figure
+fly
+fly
+fondly
+for
+for
+for
+for
+for
+forever
+future
+get
+had
+hanging
+have
+have
+have
+help
+hope
+hope
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+imagination
+in
+in
+in
+in
+in
+in
+in
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+keep
+later
+later
+later
+later
+later
+later
+later
+later
+later
+look
+mates
+maybe
+maybe
+maybe
+me
+me
+me
+me
+me
+me
+me
+me
+me
+me
+meet
+moment
+momentarily
+more
+much
+my
+my
+my
+my
+my
+name
+nature
+not
+not
+not
+not
+not
+not
+not
+not
+nothing
+now
+now
+now
+now
+now
+now
+of
+of
+of
+of
+of
+of
+of
+of
+of
+older
+older
+on
+only
+or
+or
+or
+other
+other
+part
+past
+perchance
+person
+poetry
+probably
+reader
+reading
+reading
+reading
+real
+remains
+remember
+required
+right
+s
+same
+same
+school
+seen
+self
+settle
+some
+some
+something
+something
+soul
+specifically
+spider
+spider
+still
+structured
+such
+such
+talk
+talking
+tenuous
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+thinking
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+this
+though
+thread
+time
+time
+time
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+too
+too
+true
+true
+two
+two
+ultimately
+us
+us
+version
+very
+want
+way
+way
+way
+we
+we
+we
+we
+well
+what
+what
+when
+when
+when
+when
+which
+which
+which
+will
+will
+will
+will
+with
+words
+write
+writing
+writing
+writing
+x
+x
+x
+yearns
+yes
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+your
+your
+your

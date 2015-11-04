@@ -1,29 +1,117 @@
----
-title: "Let's start with something simple:"
-genre: verse
-
-id: something-simple
-toc: "Something simple"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| in mammals the ratio between bladder size
-| and urethra is such that it takes
-| all of them the same time to piss.  Take
-| for example the fact that Fibonnacci
-| numbers show up everywhere.  How can you
-| look at this at all of this all of
-| these facts and tell me to my face there
-| is no God?  And yet there isn't
-| you murmer quietly into my ear over
-| and over like a low tide sounding
-| its lonely waves on an abandoned beach.
-| The ocean that birthed us holds us
-| still.  We are tied, you and I, together
-| in her arms.  The [moon, caring father,][moon]
-| looks down from a dispassionate sky.
-
-[moon]: moon-drowning.html
+a
+a
+abandoned
+all
+all
+all
+an
+and
+and
+and
+and
+and
+are
+arms
+at
+at
+beach
+between
+birthed
+bladder
+can
+caring
+dispassionate
+down
+ear
+everywhere
+example
+face
+fact
+facts
+father
+fibonnacci
+for
+from
+god
+her
+holds
+how
+i
+in
+in
+into
+is
+is
+is
+it
+its
+let
+like
+lonely
+look
+looks
+low
+mammals
+me
+moon
+murmer
+my
+my
+no
+not
+numbers
+ocean
+of
+of
+of
+on
+over
+over
+piss
+quietly
+ratio
+s
+same
+show
+simple
+size
+sky
+something
+sounding
+start
+still
+such
+take
+takes
+tell
+that
+that
+that
+the
+the
+the
+the
+the
+them
+there
+there
+these
+this
+this
+tide
+tied
+time
+to
+to
+together
+up
+urethra
+us
+us
+waves
+we
+with
+yet
+you
+you
+you

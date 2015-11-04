@@ -1,46 +1,195 @@
----
-title: Axe
-genre: prose
-
-id: axe
-toc: "Axe"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 5
-    next:
-    - title: Leaf
-      link: leaf
-    - title: Building
-      link: building
-    prev:
-    - title: Dream
-      link: dream
-    - title: Art
-      link: art
-...
-
-Paul took his axe and went out into the woods to chop trees.
-Or rather he went into the trees to chop wood.
-He wasn't sure.
-Either way it helped him think.
-Last time he'd gone out, he'd had an idea for a shoe-insert company he could start called "Paul's Bunyons."
-He chuckled to himself as he shouldered his axe and went into the forest.
-
-Deep into the woods he admired the organization of the trees.
-"They grow wherever they fall" he said "but still none is too close to another."
-He sounded like Solomon to himself.
-[He imagined he had a beard.][]
-
-He walked for a long time in the shadows of the forest, in its coolness.
-It sounded like snow had fallen but it was still [October][].
-The first time the trees seemed to radiate out from him in straight lines he stopped and turned around four times.
-After he walked on he noticed it happened fairly often.
-
-Still, after he felled his first tree that day he realized they grew from the epicenter of his axe.
-He paused in the [small dark sound][] of the forest quiet.
-
-[He imagined he had a beard.]: riptide_memory.html
-[October]: january.html
-[small dark sound]: last-bastion.html
+a
+a
+a
+admired
+after
+after
+an
+and
+and
+and
+another
+around
+as
+axe
+axe
+axe
+axe
+beard
+bunyons
+but
+but
+called
+chop
+chop
+chuckled
+close
+company
+coolness
+could
+dark
+day
+deep
+either
+epicenter
+fairly
+fall
+fallen
+felled
+first
+first
+for
+for
+forest
+forest
+forest
+four
+from
+from
+gone
+grew
+grow
+had
+had
+had
+happened
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+helped
+him
+him
+himself
+himself
+his
+his
+his
+his
+idea
+imagined
+in
+in
+in
+in
+into
+into
+into
+into
+is
+it
+it
+it
+it
+its
+last
+like
+like
+lines
+long
+none
+not
+noticed
+october
+of
+of
+of
+of
+often
+on
+or
+organization
+out
+out
+out
+paul
+paul
+paused
+quiet
+radiate
+rather
+realized
+s
+said
+seemed
+shadows
+shoe-insert
+shouldered
+small
+snow
+solomon
+sound
+sounded
+sounded
+start
+still
+still
+still
+stopped
+straight
+sure
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+they
+they
+they
+think
+time
+time
+time
+times
+to
+to
+to
+to
+to
+to
+too
+took
+tree
+trees
+trees
+trees
+trees
+turned
+walked
+walked
+was
+was
+way
+went
+went
+went
+wherever
+wood
+woods
+woods
+would
+would

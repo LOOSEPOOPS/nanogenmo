@@ -1,49 +1,303 @@
----
-title: Options
-genre: prose
-
-id: options
-toc: "Options"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 26
-    next:
-    - title: Stagnant
-      link: stagnant
-    - title: Paul
-      link: paul
-    prev:
-    - title: Swear
-      link: swear
-    - title: Notes
-      link: notes
-...
-
-What did he do when he was in the woods?
-Where did he go?
-Was there always one spot, one clearing deep within the heart of them, that he would visit?
-Did he talk to the trees or only to himself?
-When he chopped down trees, did he leave them there to rot in the quiet or did he drag them out of the woods, behind his Shack, and [dismember them][]?
-Did he use any for firewood, or did the pieces rot behind his Shack, forgotten?
-When was the last time he built any furniture?
-Did he get any better at building it or did he just quit at some point, let the desire to create fall behind him like a forgotten felled tree?
-
-A tree fell in the forest: did it make a noise?
-Paul typed his thoughts on cards, or wrote them in a book: did anyone read it?
-If anyone did, was his life changed?
-For the better or the worse?
-Did he glance at the mess in the top drawer of his Writing Desk as he cleaned the Shack out long after Paul had quit using it?
-Did he put tools in there or leave it empty?
-[What did he do with the desk?][]
-Did he add it to the pile of rotting wood out back, or did he chop it up for a bonfire with friends, or a cozy fire with his wife and children, or did he take it to the dump three miles away to rot there?
-Are these all the options?
-
-Did Paul ever think about any of this?
-Walking in the woods one afternoon after becoming frustrated with his writing, did he sit on a stump and cry?
-Did he wonder whether he should have made other choices?
-Did he consider quitting smoking?
-
-[dismember them]: weplayedthosegamestoo.html
-[What did he do with the desk?]: finding-the-lion.html
+a
+a
+a
+a
+a
+a
+a
+about
+add
+after
+after
+afternoon
+all
+always
+and
+and
+and
+any
+any
+any
+any
+anyone
+anyone
+are
+as
+at
+at
+at
+away
+back
+becoming
+behind
+behind
+behind
+better
+better
+bonfire
+book
+building
+built
+cards
+changed
+children
+choices
+chop
+chopped
+cleaned
+clearing
+consider
+cozy
+create
+cry
+deep
+desire
+desk
+desk
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+did
+dismember
+do
+do
+down
+drag
+drawer
+dump
+empty
+ever
+fall
+fell
+felled
+fire
+firewood
+for
+for
+for
+forest
+forgotten
+forgotten
+friends
+frustrated
+furniture
+get
+glance
+go
+had
+have
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+heart
+him
+himself
+his
+his
+his
+his
+his
+his
+his
+if
+in
+in
+in
+in
+in
+in
+in
+it
+it
+it
+it
+it
+it
+it
+it
+just
+last
+leave
+leave
+let
+life
+like
+long
+made
+make
+mess
+miles
+noise
+of
+of
+of
+of
+of
+on
+on
+one
+one
+one
+only
+options
+options
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+other
+out
+out
+out
+paul
+paul
+paul
+pieces
+pile
+point
+put
+quiet
+quit
+quit
+quitting
+read
+rot
+rot
+rot
+rotting
+shack
+shack
+shack
+should
+sit
+smoking
+some
+spot
+stump
+take
+talk
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+them
+them
+them
+them
+there
+there
+there
+there
+these
+think
+this
+thoughts
+three
+time
+to
+to
+to
+to
+to
+to
+to
+tools
+top
+tree
+tree
+trees
+trees
+typed
+up
+use
+using
+visit
+walking
+was
+was
+was
+was
+what
+what
+when
+when
+when
+where
+whether
+wife
+with
+with
+with
+with
+within
+wonder
+wood
+woods
+woods
+woods
+worse
+would
+writing
+writing
+wrote

@@ -1,48 +1,259 @@
----
-title: Cereal
-genre: prose
-
-id: cereal
-toc: "Cereal"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 21
-    next:
-    - title: Man
-      link: man
-    - title: Dream
-      link: dream
-    prev:
-    - title: Sapling
-      link: sapling
-    - title: Building
-      link: building
-...
-
-He woke up after eleven and didn't go [outside][] all day, not even to his Writing Shack.
-What did he do?
-
-He watched late morning cartoons meant for children too young to go to school.
-He ate bowls of cereal.
-He watched his mother play dominoes.
-He played dominoes with her for a little while until she was winning by such a margin it wasn't fun for either of them.
-He went down to the basement to do his [laundry][].
-He pulled the chain for the light and it turned on like magic.
-"Electricity is like magic" he said to himself.
-He thought he would like to write that down but his Implements were in the Shack.
-He'd already built up so much momentum inside.
-
----Inertia? he thought.
-"What's the difference between inertia and momentum" he asked himself as he hefted dirty clothes into the washer.
-"Maybe inertia is the momentum of not moving" he thought as he measured and poured the blue detergent into the drum.
-"Momentum is the inertia of moving forward through time" as he selected WARM-COLD on the dial and pulled it out to start the machine.
-"What do you think is the difference between inertia and momentum" he asked his mother when he opened the door at the top of the stairs.
-
-"When you switch over your laundry could you bring up my underwear from the dryer" she asked not looking up from her dominoes.
-A [thread of smoke][] curled from her cigarette and spread out on the ceiling.
-
-[outside]: time-looks-up-to-the-sky.html
-[laundry]: underwear.html
-[thread of smoke]: last-passenger.html
+a
+a
+a
+after
+all
+already
+and
+and
+and
+and
+and
+and
+and
+as
+as
+as
+asked
+asked
+asked
+at
+ate
+basement
+between
+between
+blue
+bowls
+bring
+built
+but
+by
+cartoons
+ceiling
+cereal
+cereal
+chain
+children
+cigarette
+clothes
+could
+curled
+day
+detergent
+dial
+did
+did
+difference
+difference
+dirty
+do
+do
+do
+dominoes
+dominoes
+dominoes
+door
+down
+down
+drum
+dryer
+either
+electricity
+eleven
+even
+for
+for
+for
+for
+forward
+from
+from
+from
+fun
+go
+go
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+hefted
+her
+her
+her
+himself
+himself
+his
+his
+his
+his
+his
+implements
+in
+inertia
+inertia
+inertia
+inertia
+inertia
+inside
+into
+into
+is
+is
+is
+is
+it
+it
+it
+late
+laundry
+laundry
+light
+like
+like
+like
+little
+looking
+machine
+magic
+magic
+margin
+maybe
+meant
+measured
+momentum
+momentum
+momentum
+momentum
+momentum
+morning
+mother
+mother
+moving
+moving
+much
+my
+not
+not
+not
+not
+not
+of
+of
+of
+of
+of
+of
+on
+on
+on
+opened
+out
+out
+outside
+over
+play
+played
+poured
+pulled
+pulled
+s
+said
+school
+selected
+shack
+shack
+she
+she
+smoke
+so
+spread
+stairs
+start
+such
+switch
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+think
+thought
+thought
+thought
+thread
+through
+time
+to
+to
+to
+to
+to
+to
+to
+to
+too
+top
+turned
+underwear
+until
+up
+up
+up
+up
+warm-cold
+was
+was
+washer
+watched
+watched
+went
+were
+what
+what
+what
+when
+when
+while
+winning
+with
+woke
+would
+would
+write
+writing
+you
+you
+you
+young
+your

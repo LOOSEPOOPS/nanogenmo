@@ -1,52 +1,178 @@
----
-title: Dream
-genre: prose
-
-id: dream
-toc: "Dream"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 4
-    next:
-    - title: Axe
-      link: axe
-    - title: Early
-      link: early
-    prev:
-    - title: Underwear
-      link: underwear
-    - title: Cereal
-      link: cereal
-...
-
-It had gotten cold.
-He went to lay down [in bed][] with a pad and paper.
-He began to write.
-Although he hadn't tried it much in bed before, he liked it mostly.
-His arm got tired journeying across the page like a series of switchbacks down the wall of the Grand Canyon.
-He wrote this down in the margin, for later:
-
-_Arm journeying across \
-the pg. like a \
-series of switch- \
-backs down the wall \
-of the Grand Canyon_
-
-His arm began to pain him.
-He adjusted his position in the bed.
-It didn't help much with the pain.
-It still hurt as he wrote.
-He began to be distracted by his mother's music playing in the next room.
-
-"Could you turn that down please" he hollered across the wall to his mother.
-She made no reply ([music too loud][]).
-He gave his arm a break to look at what he'd written.
-He couldn't make heads or tails of it.
-It looked like Arabic.
-
-He woke up gasping in a sweat.
-
-[in bed]: in-bed.html
-[music too loud]: music-433.html
+a
+a
+a
+a
+a
+across
+across
+across
+adjusted
+although
+and
+arabic
+arm
+arm
+arm
+arm
+as
+at
+backs
+be
+bed
+bed
+bed
+before
+began
+began
+began
+break
+by
+canyon
+canyon
+cold
+could
+could
+did
+distracted
+down
+down
+down
+down
+down
+dream
+for
+gasping
+gave
+got
+gotten
+grand
+grand
+had
+had
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+heads
+help
+him
+his
+his
+his
+his
+his
+his
+hollered
+hurt
+in
+in
+in
+in
+in
+in
+it
+it
+it
+it
+it
+it
+it
+journeying
+journeying
+later
+lay
+like
+like
+like
+liked
+look
+looked
+loud
+made
+make
+margin
+mostly
+mother
+mother
+much
+much
+music
+music
+next
+no
+not
+not
+not
+of
+of
+of
+of
+of
+or
+pad
+page
+pain
+pain
+paper
+pg
+playing
+please
+position
+reply
+room
+s
+series
+series
+she
+still
+sweat
+switch
+switchbacks
+tails
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+this
+tired
+to
+to
+to
+to
+to
+to
+too
+tried
+turn
+up
+wall
+wall
+wall
+went
+what
+with
+with
+woke
+would
+write
+written
+wrote
+wrote
+you

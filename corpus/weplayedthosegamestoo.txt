@@ -1,43 +1,169 @@
----
-title: We played those games too
-genre: verse
-
-id: weplayedthosegamestoo
-toc: "We played those games too"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 25
-    prev:
-    - title: Telemarketer
-      link: telemarketer
-    next:
-    - title: 'To Daniel: an elaboration'
-      link: todaniel
-...
-
-| I saw two Eskimo girls playing a game
-| blowing on each other's' vocal cords to make music
-| on the tundra.  I thought about how
-| once we played the same game
-| and the sounds blowing over the cords of our throats
-| was the same as a wind over frozen prairie.
-| We are the Eskimo girls who played
-| the game that night to keep ourselves warm.
-| I run my hands over [my daughter][]'s
-| voicebox as she hums a song
-| about a seal and about killing the seal and about
-| skinning it and rendering the blubber
-| into clear oil to light lamps.
-| I remember you are my lamp.  She remembers
-| you although you left before she arrived.
-| I can never tell her about you.
-| I will never be able to express that taste of your oil
-| as we [pushed our throats together][spittle].
-| I will never be able to say how
-| we share this blemish like conjoined twins.
-| I will fail you always to remember you.
-
-[my daughter]: and.html
-[spittle]: spittle.html
+a
+a
+a
+a
+able
+able
+about
+about
+about
+about
+about
+although
+always
+and
+and
+and
+and
+are
+are
+arrived
+as
+as
+as
+be
+be
+before
+blemish
+blowing
+blowing
+blubber
+can
+clear
+conjoined
+cords
+cords
+daughter
+each
+eskimo
+eskimo
+express
+fail
+frozen
+game
+game
+game
+games
+girls
+girls
+hands
+her
+how
+how
+hums
+i
+i
+i
+i
+i
+i
+i
+i
+into
+it
+keep
+killing
+lamp
+lamps
+left
+light
+like
+make
+music
+my
+my
+my
+never
+never
+never
+night
+of
+of
+oil
+oil
+on
+on
+once
+other
+our
+our
+ourselves
+over
+over
+over
+played
+played
+played
+playing
+prairie
+pushed
+remember
+remember
+remembers
+rendering
+run
+s
+s
+same
+same
+saw
+say
+seal
+seal
+share
+she
+she
+she
+skinning
+song
+sounds
+taste
+tell
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+this
+those
+thought
+throats
+throats
+to
+to
+to
+to
+to
+to
+together
+too
+tundra
+twins
+two
+vocal
+voicebox
+warm
+was
+we
+we
+we
+we
+we
+who
+will
+will
+will
+wind
+you
+you
+you
+you
+you
+you
+your

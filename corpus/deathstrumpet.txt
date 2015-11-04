@@ -1,58 +1,259 @@
----
-title: "Death's trumpet"
-genre: verse
-
-id: deathstrumpet
-toc: "Death's trumpet"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 28
-    prev:
-      title: 'To Daniel: an elaboration'
-      link: todaniel
-
-epigraph:
-    content: |
-        So Death plays his little fucking trumpet.
-        So what, says the boy.
-    attrib: Larry Levis
-    link: "http://michaelduke.org/2014/07/20/larry-levis-boy-in-video-arcade/"
-...
-
-| He didn't have any polish so he spit-shined the whole thing
-| until it gleamed like a [tomato on the vine][] that was begging
-| to be picked and thrown on some caprese.  Death loved caprese.
-
-| He stood up to put the horn to his lips, trying to imagine
-| it was a woman he loved.  He blushed as he realized how bad
-| [the metaphor was][].  He practiced anyway for six hours a day
-| in front of the mirror---what else to do with all the time?
-
-| Death looked at [himself in the mirror][] as he played, the trumpet
-| suspended in midair.  _Damn vampire rules_, he thought.
-| He was always worried he might have [missed a spot][] while shaving
-| but he'd never know unless a stranger---he had no friends---
-| was kind enough.  Not that he goes out anyway or meets people.
-
-| He started waking up late, staying in bed later.
-| He started thinking he was depressed.  He never did eat
-| that caprese, and it started getting soggy, green spots
-| spreading on the mozzarella like bedsores.  The sun
-| filtered through the [kitchen blinds like smoke][]. He had
-| to get out of the house.  He decided to go to the arcade.
-
-| When he got there, it was empty except for a boy
-| [with dead eyes][].  So far so good, Death thought.
-| He was playing a first-person shooter, something violent.
-| Death walked past him and watched out of the corner
-| of his eye.  The kid was good.  Death decided
-| to congratulate him.  He had his trumpet in his hand.
-
-[himself in the mirror]: moongone.html
-[with dead eyes]: big-dipper.html
-[tomato on the vine]: wallpaper.html
-[the metaphor was]: leaf.html
-[missed a spot]: january.html
-[kitchen blinds like smoke]: what-we-are-made-of.html
+a
+a
+a
+a
+a
+a
+a
+all
+always
+and
+and
+and
+any
+anyway
+anyway
+arcade
+as
+as
+at
+bad
+be
+bed
+bedsores
+begging
+blinds
+blushed
+boy
+but
+caprese
+caprese
+caprese
+congratulate
+corner
+damn
+day
+dead
+death
+death
+death
+death
+death
+death
+decided
+decided
+depressed
+did
+did
+do
+eat
+else
+empty
+enough
+except
+eye
+eyes
+far
+filtered
+first-person
+for
+for
+friends
+front
+get
+getting
+gleamed
+go
+goes
+good
+good
+got
+green
+had
+had
+had
+hand
+have
+have
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+he
+him
+him
+himself
+his
+his
+his
+his
+horn
+hours
+house
+how
+imagine
+in
+in
+in
+in
+in
+it
+it
+it
+it
+kid
+kind
+kitchen
+know
+late
+later
+like
+like
+like
+lips
+looked
+loved
+loved
+meets
+metaphor
+midair
+might
+mirror
+mirror
+missed
+mozzarella
+never
+never
+no
+not
+not
+of
+of
+of
+of
+on
+on
+on
+or
+out
+out
+out
+past
+people
+picked
+played
+playing
+polish
+practiced
+put
+realized
+rules
+s
+shaving
+shooter
+six
+smoke
+so
+so
+so
+soggy
+some
+something
+spit-shined
+spot
+spots
+spreading
+started
+started
+started
+staying
+stood
+stranger
+sun
+suspended
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+there
+thing
+thinking
+thought
+thought
+through
+thrown
+time
+to
+to
+to
+to
+to
+to
+to
+to
+to
+tomato
+trumpet
+trumpet
+trumpet
+trying
+unless
+until
+up
+up
+vampire
+vine
+violent
+waking
+walked
+was
+was
+was
+was
+was
+was
+was
+was
+was
+watched
+what
+when
+while
+whole
+with
+with
+woman
+worried
+would

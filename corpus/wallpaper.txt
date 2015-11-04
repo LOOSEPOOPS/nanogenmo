@@ -1,48 +1,222 @@
----
-title: Wallpaper
-genre: prose
-
-id: wallpaper
-toc: "Wallpaper"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 31
-    next:
-    - title: Punch
-      link: punch
-    - title: Window
-      link: window
-    prev:
-    - title: X-ray
-      link: x-ray
-    - title: Underwear
-      link: underwear
-...
-
-He didn't go back into the shed for a long time.
-His hatchet was in there, and his axe.
-He didn't want to face them.
-His papers, he decided, could wait in the top drawer for a while before being looked at again.
-The pain medication made him loopy.
-He couldn't think as well as he was used to, which wasn't well to begin with.
-Even saying his thoughts out loud, it was as though they were on the [TV in the next room][].
-Someone was cheering.
-They had just won a car.
-
-His mother came in with lunch on a tray.
-It was hot tomato soup and a grilled cheese sandwich.
-"What have you been doing all day" she asked "you haven't just been staring at the wall have you?"
-He had been staring at the wall most of the day.
-[The wall without the window on it, with the woodgrain wallpaper.][]
-"No" he said.
-"What have you been doing then" she asked setting the tray down on his lap.
-He sat up and almost upset it, but she caught it before it spilled anything.
-"Composing in my head" he lied.  "A novel of my experience."
-
-"[Do you really think anyone will want to read about you][do you]" she asked and walked out of the room.
-
-[TV in the next room]: statements-frag.html
-[The wall without the window on it, with the woodgrain wallpaper.]: in-bed.html
-[do you]: http://www.confederacyofdunces.com/
+a
+a
+a
+a
+a
+a
+about
+again
+all
+almost
+and
+and
+and
+and
+anyone
+anything
+as
+as
+as
+asked
+asked
+asked
+at
+at
+at
+axe
+back
+been
+been
+been
+been
+before
+before
+begin
+being
+but
+came
+car
+caught
+cheering
+cheese
+composing
+could
+could
+day
+day
+decided
+did
+did
+do
+doing
+doing
+down
+drawer
+even
+experience
+face
+for
+for
+go
+grilled
+had
+had
+hatchet
+have
+have
+have
+have
+he
+he
+he
+he
+he
+he
+he
+he
+he
+head
+him
+his
+his
+his
+his
+his
+his
+hot
+in
+in
+in
+in
+in
+into
+it
+it
+it
+it
+it
+it
+just
+just
+lap
+lied
+long
+looked
+loopy
+loud
+lunch
+made
+medication
+most
+mother
+my
+my
+next
+no
+not
+not
+not
+not
+not
+novel
+of
+of
+of
+on
+on
+on
+on
+out
+out
+pain
+papers
+read
+really
+room
+room
+said
+sandwich
+sat
+saying
+setting
+she
+she
+she
+she
+shed
+someone
+soup
+spilled
+staring
+staring
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+then
+there
+they
+they
+think
+think
+though
+thoughts
+time
+to
+to
+to
+to
+tomato
+top
+tray
+tray
+tv
+up
+upset
+used
+wait
+walked
+wall
+wall
+wall
+wallpaper
+wallpaper
+want
+want
+was
+was
+was
+was
+was
+was
+well
+well
+were
+what
+what
+which
+while
+will
+window
+with
+with
+with
+without
+won
+woodgrain
+you
+you
+you
+you
+you
+you

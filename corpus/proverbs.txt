@@ -1,50 +1,326 @@
----
-title: Proverbs
-genre: prose
-
-id: proverbs
-toc: "Proverbs"
-
-project:
-    title: Book of Hezekiah
-    class: hezekiah
-    order: 4
-    next:
-    - title: Moving sideways
-      link: movingsideways
-    prev:
-    - title: Philosophy
-      link: philosophy
-...
-
-[Nothing matters; everything is sacred.
-Everything matters; nothing is sacred][sacred].[^1]
-This is the only way we can move forward: by moving sideways.
-Life is a great big rugby game, and the entire field has to be run for a goal.
-The fact that the beginning two verses of this chapter have the same number of characters proves that they are a tautological pair, that is, they *complete each other*.
-Sometimes life seems like a dog wagging its tail, smiling up at you and wanting you to love it, just wanting that, simple simple love, oblivious to the fact that it just ran through your immaculately groomed flower garden and tracked all the mud in onto your freshly steamed carpet.
-Life is not life in a suburb.
-[There are no rosebushes, groomed never.  There is no carpet, steamed at any time.][rosebush]
-The dog looks at you wanting you to love it.
-It wants to know that you know that it's there.
-*It wants to be observed*.[^2]
-
-[sacred]: words-meaning.html
-[rosebush]: lovesong.html
-
-[^1]: Thank you [Tom Stoppard][].  Ha ha ho ho and hee hee.
-
-[^2]: Ah ha!  I knew this was going to happen at some point.  Now things
-    are going to get more interesting because the dog wants what we
-    thought was a bad thing, right?  Right?  Didn't we go through that
-    part about how observing made it impossible to really know anything,
-    and I had to start over because it's really hard to figure out what
-    you're talking about when reality slips out of your hands like a
-    fish, but you're not a cat with claws so it just flops right outta
-    your hand back into the lake.  (By the way, Nirvana is thought to be
-    what a drop of water feels upon flopping into a lake---doesn't that
-    seem important?  Doesn't it seem like a fish and a drop of water here
-    are connected?  It helps, of course, that the fish represents Reality
-    here.)
-
-[Tom Stoppard]: http://www.thesatirist.com/books/CowGirlBlues.html
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+about
+about
+ah
+all
+and
+and
+and
+and
+and
+and
+any
+anything
+are
+are
+are
+are
+are
+are
+at
+at
+at
+at
+back
+bad
+be
+be
+be
+because
+because
+beginning
+big
+but
+by
+by
+can
+carpet
+carpet
+cat
+chapter
+characters
+claws
+complete
+connected
+course
+did
+does
+does
+dog
+dog
+dog
+drop
+drop
+each
+entire
+everything
+everything
+fact
+fact
+feels
+field
+figure
+fish
+fish
+fish
+flopping
+flops
+flower
+for
+forward
+freshly
+game
+garden
+get
+go
+goal
+going
+going
+great
+groomed
+groomed
+ha
+ha
+ha
+had
+hand
+hands
+happen
+hard
+has
+have
+hee
+hee
+helps
+here
+here
+ho
+ho
+how
+i
+i
+immaculately
+important
+impossible
+in
+in
+interesting
+into
+into
+is
+is
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+its
+just
+just
+just
+knew
+know
+know
+know
+lake
+lake
+life
+life
+life
+life
+like
+like
+like
+looks
+love
+love
+love
+made
+matters
+matters
+more
+move
+moving
+mud
+never
+nirvana
+no
+no
+not
+not
+not
+not
+not
+nothing
+nothing
+now
+number
+oblivious
+observed
+observing
+of
+of
+of
+of
+of
+of
+only
+onto
+other
+out
+out
+outta
+over
+pair
+part
+point
+proverbs
+proves
+ran
+reality
+reality
+really
+really
+represents
+right
+right
+right
+rosebushes
+rugby
+run
+sacred
+sacred
+same
+seem
+seem
+seems
+sideways
+simple
+simple
+slips
+smiling
+so
+some
+sometimes
+start
+steamed
+steamed
+stoppard
+suburb
+tail
+talking
+tautological
+thank
+that
+that
+that
+that
+that
+that
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+there
+there
+there
+they
+they
+thing
+things
+this
+this
+this
+thought
+thought
+through
+through
+time
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+tom
+tracked
+two
+up
+upon
+verses
+wagging
+wanting
+wanting
+wanting
+wants
+wants
+wants
+was
+was
+water
+water
+way
+way
+we
+we
+we
+what
+what
+what
+when
+with
+you
+you
+you
+you
+you
+you
+you
+you
+your
+your
+your
+your

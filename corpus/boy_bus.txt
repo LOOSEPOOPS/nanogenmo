@@ -1,50 +1,179 @@
----
-title: Boy on the bus
-genre: verse
-
-id: boy_bus
-toc: "Boy on the bus"
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 9
-    next:
-    - title: I think it's you (but it's not)
-      link: i-think-its-you
-    - title: Last Bastion
-      link: last-bastion
-    prev:
-    - title: L'appel du vide
-      link: lappel-du-vide
-    - title: Exasperated
-      link: exasperated
-...
-
-| When he said [Bible][] I heard his southern accent
-| and he had a face I expect all pastors must have
-| a round open honest face
-| that will always be a boy's face
-| though its owner may rightly call himself a man
-| near my age though I hardly call myself a man
-
-| I have seen this face before whether in life or a dream
-| I can't tell
-| if I've seen him on the street once
-| twice who knows and his pastor's [moon face][]
-| reminds me of something
-| some distant light my life used to own
-
-| [One night on my birthday the moon was so strong it cast shadows][]
-| I could see to the far hill and back it was all clear to me
-
-| The moon hasn't done that in a long time
-| [its face has been obscured by clouds][] for weeks
-| and that boy on the bus his face I've forgotten
-| I thought I recognized a good number of people
-| on that bus who I didn't know at all
-
-[its face has been obscured by clouds]: moongone.html
-[One night on my birthday the moon was so strong it cast shadows]: in-bed.html
-[moon face]: moon-drowning.html
-[Bible]: mountain.html
+a
+a
+a
+a
+a
+a
+a
+a
+accent
+age
+all
+all
+all
+always
+and
+and
+and
+and
+at
+back
+be
+been
+before
+bible
+birthday
+boy
+boy
+boy
+bus
+bus
+bus
+by
+ca
+call
+call
+cast
+clear
+clouds
+could
+did
+distant
+done
+dream
+expect
+face
+face
+face
+face
+face
+face
+face
+far
+for
+forgotten
+good
+had
+hardly
+has
+has
+have
+have
+have
+have
+he
+he
+heard
+hill
+him
+himself
+his
+his
+his
+honest
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+if
+in
+in
+it
+it
+its
+its
+know
+knows
+life
+life
+light
+long
+man
+man
+may
+me
+me
+moon
+moon
+moon
+must
+my
+my
+my
+myself
+near
+night
+not
+not
+not
+number
+obscured
+of
+of
+on
+on
+on
+on
+on
+once
+one
+open
+or
+own
+owner
+pastor
+pastors
+people
+recognized
+reminds
+rightly
+round
+s
+s
+said
+see
+seen
+seen
+shadows
+so
+some
+something
+southern
+street
+strong
+tell
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+this
+though
+though
+thought
+time
+to
+to
+to
+twice
+used
+was
+was
+weeks
+when
+whether
+who
+who
+will

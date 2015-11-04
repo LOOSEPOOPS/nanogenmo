@@ -1,69 +1,236 @@
----
-title: About the author
-subtitle: (not pictured)
-genre: table
-
-id: about-the-author
-toc: "About the author (not pictured)"
-
-epigraph:
-    content: The body that surrounds him is his, but his insides are not.
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 19
-    prev:
-    - title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing
-      link: music-433
-    - title: Riptide of memory
-      link: riptide_memory
-...
-
------------------------------------------------ ------------------------------------------------------------
-[He was born][] on a few separate occasions                              _[green traffic lights][] at night_
-
-There was the day of his conception \                                      _[a TV in front of a dumpster][]_
-a wintery affair saved for those involved
-
-The day he wriggled forth \
-from the dark tunnel of nothing \                                      _surprise photo of you at Walgreen's_
-[his mother's womb][]
-
-The founding of his little city \
-deep inside by the small builders \                        _a [pink dress in the alley][] behind your house_
-alien as they were and still \
-somehow intimately familiar
-
-Like any city it had its ups \
-and downs the fever of 1994 \                          _me buying a Reese's peanut butter cup for a child_ \
-was especially devastating \                                           _[whose family couldn't afford it]_ \
-but they were a hardy folk \                                       _[in front of me in line at Safeway][]_
-not much given to flight
-
-As all things must pass the \
-little city began slowly to decay \                                       _trees at night their skeletons_ \
-the [old ones claimed the young][] \                                          _revealed by a camera flash_
-had no respect for culture anymore
-
-They began to die off slowly \
-more quickly than being born \                                 _[two earthworms on pavement after a rain][]_
-the end was coming closer
-
-As the [last breath][] was made \
-the last accounts closed in the city                                 _keys tacked to a sign in Buffalo Park_
-
-It was given over to other builders                     _man flipping a [four-wheeler][] and walking it off_
-
------------------------------------------------ ------------------------------------------------------------
-
-[two earthworms on pavement after a rain]: the-sea_the-beach.html
-[He was born]: sixteenth-chapel.html
-[a TV in front of a dumpster]: options.html
-[his mother's womb]: death-zone.html
-[green traffic lights]: stayed-on-the-bus.html
-[pink dress in the alley]: in-bed.html
-[in front of me in line at Safeway]: last-bastion.html
-[old ones claimed the young]: creation-myth.html
-[last breath]: last-passenger.html
-[four-wheeler]: deadman.html
+1994
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+about
+accounts
+affair
+afford
+after
+alien
+all
+alley
+and
+and
+and
+any
+anymore
+as
+as
+as
+at
+at
+at
+at
+author
+began
+began
+behind
+being
+born
+born
+breath
+buffalo
+builders
+builders
+but
+butter
+buying
+by
+by
+camera
+child
+city
+city
+city
+city
+claimed
+closed
+closer
+coming
+conception
+could
+culture
+cup
+dark
+day
+day
+decay
+deep
+devastating
+die
+downs
+dress
+dumpster
+earthworms
+end
+especially
+familiar
+family
+fever
+few
+flash
+flight
+flipping
+folk
+for
+for
+for
+forth
+founding
+four-wheeler
+from
+front
+front
+given
+given
+green
+had
+had
+hardy
+he
+he
+his
+his
+his
+house
+in
+in
+in
+in
+in
+in
+inside
+intimately
+involved
+it
+it
+it
+it
+its
+keys
+last
+last
+lights
+like
+line
+little
+little
+made
+man
+me
+me
+more
+mother
+much
+must
+night
+night
+no
+not
+not
+not
+nothing
+occasions
+of
+of
+of
+of
+of
+of
+of
+off
+off
+old
+on
+on
+ones
+other
+over
+park
+pass
+pavement
+peanut
+photo
+pictured
+pink
+quickly
+rain
+reese
+respect
+revealed
+s
+s
+s
+safeway
+saved
+separate
+sign
+skeletons
+slowly
+slowly
+small
+somehow
+still
+surprise
+tacked
+than
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+their
+there
+they
+they
+they
+things
+those
+to
+to
+to
+to
+to
+traffic
+trees
+tunnel
+tv
+two
+ups
+walgreen
+walking
+was
+was
+was
+was
+was
+was
+were
+were
+whose
+wintery
+womb
+wriggled
+you
+young
+your

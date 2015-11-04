@@ -1,59 +1,266 @@
----
-title: Call me
-subtitle: aural pleasure
-genre: verse
-
-id: call-me-aural-pleasure
-toc: "Call me aural pleasure"
-
-epigraph:
-    content: |
-        compiled thru Facebook statuses of the author
-    link: 'https://www.facebook.com/kittensruleforever38'
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| Like _40_ as I challenge anyone to come too!
-| It's like you're the epitome of lame!
-| She's all _I am SOOOO CONFUSED_
-| Aw yeah she got [word from yarn][].
-| ---but technically it's a pretty sweet, huh?
-
-| Dude we were going and delicate fragrance of arguments get based off of are not try
-| dropping glasses in such an emotional rollercoaster you
-| and yes, I'm cocky enough to do anything!
-| I am as good as Phineas and make another picture symphony
-| This is a modification of a young woman to try
-| groups disband after they get your [Meacham stuff][] please let it
-| RJ Covino, own statuses that'll be a great
-
-| MY OWN afterbirth can do that
-| [I am 2 we can be KISSED][] ON THE page.
-| You know I'm not sure that
-| Ben & Jerry's FTW
-| 4/10 would not be able to vote, because I gotta do it
-| This is going to be sad about what
-| Rush Limbaugh comes forward with sunglasses but at least I wasn't wearing a messenger bag or skinny jeans!
-| The cooler THAN Facebook
-| Wine is the best.
-
-| YES I was surprised at first, [but the train one][], definitely.
-
-| Also Valhalla is a dumbass...
-| But we can get based off of course, Jon.
-| We watched this
-| CELEBRATE FRANKSGIVING TOO!
-| That didn't get started on that
-| FRANCIS OF VERULAM REASONED THUS WITH the courage to reply.
-| Anyone wanna watch out
-| I am cranky from Bro a good as a way to [hijack my hand][].
-| Afterbend was not to produce photographs.
-
-[word from yarn]: roughgloves.html
-[I am 2 we can be KISSED]: spittle.html
-[but the train one]: http://www.ugcs.caltech.edu/~deepthi/If_on_a_winter%27s_night_a_traveler.html
-[hijack my hand]: x-ray.html
-[Meacham stuff]: http://www.meachamwriters.org/index.htm
+10
+2
+4
+40
+a
+a
+a
+a
+a
+a
+a
+a
+able
+about
+after
+afterbend
+afterbirth
+all
+also
+am
+am
+am
+am
+am
+am
+an
+and
+and
+and
+and
+another
+anyone
+anyone
+anything
+are
+are
+arguments
+as
+as
+as
+as
+at
+at
+aural
+aw
+bag
+based
+based
+be
+be
+be
+be
+because
+ben
+best
+bro
+but
+but
+but
+but
+call
+can
+can
+can
+celebrate
+challenge
+cocky
+come
+comes
+confused
+cooler
+courage
+course
+covino
+cranky
+definitely
+delicate
+did
+disband
+do
+do
+do
+dropping
+dude
+dumbass
+emotional
+enough
+epitome
+facebook
+first
+forward
+fragrance
+francis
+franksgiving
+from
+from
+ftw
+get
+get
+get
+get
+glasses
+going
+going
+good
+good
+got
+gotta
+great
+groups
+hand
+hijack
+huh
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+in
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+jeans
+jerry
+jon
+kissed
+know
+lame
+least
+let
+like
+like
+limbaugh
+make
+me
+meacham
+messenger
+modification
+my
+my
+not
+not
+not
+not
+not
+not
+of
+of
+of
+of
+of
+of
+off
+off
+on
+on
+one
+or
+out
+own
+own
+page
+phineas
+photographs
+picture
+please
+pleasure
+pretty
+produce
+reasoned
+reply
+rj
+rollercoaster
+rush
+s
+s
+sad
+she
+she
+skinny
+soooo
+started
+statuses
+stuff
+such
+sunglasses
+sure
+surprised
+sweet
+symphony
+technically
+than
+that
+that
+that
+that
+that
+the
+the
+the
+the
+the
+the
+they
+this
+this
+this
+thus
+to
+to
+to
+to
+to
+to
+to
+to
+too
+too
+train
+try
+try
+valhalla
+verulam
+vote
+wanna
+was
+was
+was
+watch
+watched
+way
+we
+we
+we
+we
+wearing
+were
+what
+will
+wine
+with
+with
+woman
+word
+would
+yarn
+yeah
+yes
+yes
+you
+you
+you
+young
+your

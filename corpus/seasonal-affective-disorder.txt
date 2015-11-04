@@ -1,38 +1,103 @@
----
-title: Seasonal affective disorder
-genre: verse
-
-id: seasonal-affective-disorder
-toc: "Seasonal affective disorder"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| On your desk I set a tangerine:
-| a relic of a [winter][] quickly passing.
-
-| I'm reminded, fiercely, of a summer:
-| I watched the [cemetery grass][] on my stomach.
-
-| You hate the wind [blowing through buildings][]:
-| the coldness of fire, blister of a mountain stream.
-
-| When you broke down that night: your aunt / you
-| never have been / [you shook that night][] /
-
-| Seasonal affective disorder is real: you
-| [mutter under your breath on the highway][].
-
-| The ant carries an orange peel past a headstone:
-| it carries her nearly as often.
-
-| I set a tangerine on your desk:
-| an engagement ring, winter-returned.
-
-[winter]: january.html
-[cemetery grass]: death-zone.html
-[blowing through buildings]: building.html
-[you shook that night]: the-night-we-met.html
-[mutter under your breath on the highway]: last-bastion.html
+a
+a
+a
+a
+a
+a
+a
+affective
+affective
+am
+an
+an
+ant
+as
+aunt
+been
+blister
+blowing
+breath
+broke
+buildings
+carries
+carries
+cemetery
+coldness
+desk
+desk
+disorder
+disorder
+down
+engagement
+fiercely
+fire
+grass
+hate
+have
+headstone
+her
+highway
+i
+i
+i
+i
+is
+it
+mountain
+mutter
+my
+nearly
+never
+night
+night
+of
+of
+of
+of
+often
+on
+on
+on
+on
+orange
+passing
+past
+peel
+quickly
+real
+relic
+reminded
+ring
+seasonal
+seasonal
+set
+set
+shook
+stomach
+stream
+summer
+tangerine
+tangerine
+that
+that
+the
+the
+the
+the
+the
+through
+under
+watched
+when
+wind
+winter
+winter-returned
+you
+you
+you
+you
+you
+your
+your
+your
+your

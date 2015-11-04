@@ -1,49 +1,328 @@
----
-title: Fire
-genre: prose
-
-id: fire
-toc: "Fire"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 39
-    next:
-    - title: Hands
-      link: hands
-    prev:
-    - title: Paul
-      link: paul
-    - title: Father
-      link: father
-...
-
-His mother ran out of the house in her nightgown.
-"What the hell do you think you're doing" she hollered as Paul watched the shed.
-"I'm burning the shed down" he said smiling "isn't it warm?"
-"It's warm enough out here without that burning down" she said "go get the hose and put this thing out."
-"But Mom---"
-"Do it" she said in the tone of voice that meant Do it now.
-He went around the side of the house screwed the nozzle on grabbed the end of the hose pulled it around the house and waited for water to come out the end.
-[When it did it was not in a very strong stream.][]
-"I don't think this is going to work" Paul said to his mother.
-"God damn it I have to call the Fire Department" she said and went inside the house.
-The shed continued in its burning.
-
-After the Fire Department put out the fire one of the men said "Your mother says you set this building on fire.
-You know Arson is a major offense."
-"I set it on fire" Paul said.
-"Why?"
-"Because ART wants to be random, it wants to be natural, but it isn't.
-Humans create ART because we can't help but see patterns in randomness.
-But we feel guilty about it."
-The man nodded to another man in a blue uniform.
-"We want the ART to feel natural, to feel random, but we can't stop seeing the patterns" as the man in blue walked over and put a hand on Paul's shoulder "ART is unnatural by its very nature.
-I took my ART and gave it back to nature" as the man led him over to a [black and white][] car and put him inside.
-He was saying something about Paul's right.
-"No it's my [left that was hurt][]" said Paul "but it's all better now."
-
-[When it did it was not in a very strong stream.]: hard-game.html
-[black and white]: sense-of-it.html
-[left that was hurt]: x-ray.html
+a
+a
+a
+a
+a
+about
+about
+after
+all
+am
+and
+and
+and
+and
+and
+and
+and
+another
+are
+around
+around
+arson
+art
+art
+art
+art
+art
+as
+as
+as
+back
+be
+be
+because
+because
+better
+black
+blue
+blue
+building
+burning
+burning
+burning
+but
+but
+but
+but
+but
+but
+by
+ca
+ca
+call
+car
+come
+continued
+create
+damn
+department
+department
+did
+do
+do
+do
+do
+doing
+down
+down
+end
+end
+enough
+feel
+feel
+feel
+fire
+fire
+fire
+fire
+fire
+fire
+for
+gave
+get
+go
+god
+going
+grabbed
+guilty
+hand
+have
+he
+he
+he
+hell
+help
+her
+here
+him
+him
+his
+his
+hollered
+hose
+hose
+house
+house
+house
+house
+humans
+hurt
+i
+i
+i
+i
+i
+in
+in
+in
+in
+in
+in
+in
+inside
+inside
+is
+is
+is
+is
+is
+is
+is
+is
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+its
+its
+know
+led
+left
+major
+man
+man
+man
+man
+meant
+men
+mom
+mother
+mother
+mother
+my
+my
+natural
+natural
+nature
+nature
+nightgown
+no
+nodded
+not
+not
+not
+not
+not
+not
+now
+now
+nozzle
+of
+of
+of
+of
+of
+offense
+on
+on
+on
+on
+one
+out
+out
+out
+out
+out
+over
+over
+patterns
+patterns
+paul
+paul
+paul
+paul
+paul
+paul
+pulled
+put
+put
+put
+put
+ran
+random
+random
+randomness
+right
+s
+s
+said
+said
+said
+said
+said
+said
+said
+said
+saying
+says
+screwed
+see
+seeing
+set
+set
+she
+she
+she
+she
+shed
+shed
+shed
+shoulder
+side
+smiling
+something
+stop
+stream
+strong
+that
+that
+that
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+thing
+think
+think
+this
+this
+this
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+to
+tone
+took
+uniform
+unnatural
+very
+very
+voice
+waited
+walked
+want
+wants
+wants
+warm
+warm
+was
+was
+was
+watched
+water
+we
+we
+we
+we
+went
+went
+what
+when
+white
+why
+without
+work
+you
+you
+you
+you
+your

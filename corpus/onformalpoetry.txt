@@ -1,39 +1,128 @@
----
-title: On formal poetry
-genre: verse
-
-id: onformalpoetry
-toc: "On formal poetry"
-
-project:
-    title: Elegies for alternate selves
-    class: elegies
-    order: 12
-    prev:
-    - title: Feeding the raven
-      link: feedingtheraven
-    next:
-    - title: I am
-      link: i-am
-...
-
-| I think that I could write formal poems
-| exclusively, or at least inclusive
-| with all the other stuff I write
-| I guess.  Of course, I've already written
-| a few, this one included, though "formal"
-| is maybe a stretch.  Is blank verse a form?
-| What is form anyway?  I picture old
-| women counting [stitches on their knitting][knitting],
-| keeping iambs next to iambs in lines
-| as straight and sure as arrows.  But my sock
-| is lumpy, poorly made: it's beginning
-| to unravel.  Stresses don't line up.  Syl-
-| lables forced to fit like [McNugget][] molds.
-| That cliché on the arrow?  I'm aware.
-| My prepositions too---God, where's it stop?
-| The answer: never.  I will never stop
-| writing poems, or hating what I write.
-
-[knitting]: roughgloves.html
-[McNugget]: ronaldmcdonald.html
+a
+a
+a
+all
+already
+am
+and
+answer
+anyway
+arrow
+arrows
+as
+as
+at
+aware
+beginning
+blank
+but
+clich
+could
+counting
+course
+do
+exclusively
+few
+fit
+forced
+form
+form
+formal
+formal
+formal
+god
+guess
+hating
+have
+i
+i
+i
+i
+i
+i
+i
+i
+i
+iambs
+iambs
+in
+included
+inclusive
+is
+is
+is
+is
+is
+it
+it
+keeping
+knitting
+lables
+least
+like
+line
+lines
+lumpy
+made
+maybe
+mcnugget
+molds
+my
+my
+never
+never
+next
+not
+of
+old
+on
+on
+on
+one
+or
+or
+other
+picture
+poems
+poems
+poetry
+poorly
+prepositions
+s
+sock
+stitches
+stop
+stop
+straight
+stresses
+stretch
+stuff
+sure
+syl
+that
+that
+the
+the
+the
+their
+think
+this
+though
+to
+to
+to
+too
+unravel
+up
+verse
+what
+what
+where
+will
+with
+women
+write
+write
+write
+writing
+written

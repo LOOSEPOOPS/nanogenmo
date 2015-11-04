@@ -1,51 +1,307 @@
----
-title: A real writer
-genre: verse
-
-id: real-writer
-toc: "A real writer"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| Sometimes I feel as though I am not a real writer.
-| [I don't smoke][].  I don't wake up early but I don't sleep
-| all day either.  I find myself increasingly interested
-| in dumb luck.  Chance: I've found two dimes in as many
-| days.  Does this mean I've found twenty lucky pennies?
-| I want you to participate.  You the reader.  You,
-| the probabilistic god of my dreams.  I've been having
-| [strange dreams][] lately.  I don't remember them but
-| they leave impressions.  A bare foot.  A tunnel
-| of hair from her face to mine.  A boat stranded
-| in a living-room.  Something warm.  Something like the sun
-| through my eyelids.  [A hand, with all its dead symbology][].
-| [My teeth have fallen out][].  No, you pulled them out
-| with your hands, threw them over your left shoulder
-| [like salt][], to wish away bad luck.  I have something
-| to tell you: bad luck follows like a dog.  It lets you
-| get ahead for a few days, a week, a year.  You'll see,
-| it'll bite your sleeping face when you're not looking.
-| I've been dreaming about the future, I know.  In my dream
-| I am not a writer, [I live in a place with rain][].  You
-| are sunning yourself as you read this, on a beach or
-| maybe a desert.  Let me move in with you.  I can cook
-| [or clean][] or take care of your dog while you're out.
-| I'll never have to write again.  [I'll watch television][].
-| Do I want to become a writer?  Tell me.  Should I smoke?
-| I can sleep all day in your attic if you want, become
-| [your god][], lose my own, settle to the bottom of the bed
-| like a boat in a river, dream about nothing but [furniture][].
-
-[I don't smoke]: cereal.html
-[strange dreams]: in-bed.html
-[A hand, with all its dead symbology]: roughgloves.html
-[My teeth have fallen out]: no-nothing.html
-[like salt]: i-am.html
-[I live in a place with rain]: riptide_memory.html
-[or clean]: when-im-sorry-i.html
-[I'll watch television]: about-the-author.html
-[your god]: love-as-god.html
-[furniture]: leaf.html
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+about
+about
+again
+ahead
+all
+all
+all
+am
+am
+are
+are
+are
+as
+as
+as
+attic
+away
+bad
+bad
+bare
+beach
+become
+become
+bed
+been
+been
+bite
+boat
+boat
+bottom
+but
+but
+but
+can
+can
+care
+chance
+clean
+cook
+day
+day
+days
+days
+dead
+desert
+dimes
+do
+do
+do
+do
+do
+does
+dog
+dog
+dream
+dream
+dreaming
+dreams
+dreams
+dumb
+early
+either
+eyelids
+face
+face
+fallen
+feel
+few
+find
+follows
+foot
+for
+found
+found
+from
+furniture
+future
+get
+god
+god
+hair
+hand
+hands
+have
+have
+have
+have
+have
+have
+have
+having
+her
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+if
+impressions
+in
+in
+in
+in
+in
+in
+in
+in
+increasingly
+interested
+it
+it
+its
+know
+lately
+leave
+left
+let
+lets
+like
+like
+like
+like
+live
+living-room
+looking
+lose
+luck
+luck
+luck
+lucky
+many
+maybe
+me
+me
+mean
+mine
+move
+my
+my
+my
+my
+my
+myself
+never
+no
+not
+not
+not
+not
+not
+not
+not
+nothing
+of
+of
+of
+of
+on
+or
+or
+or
+out
+out
+out
+over
+own
+participate
+pennies
+place
+probabilistic
+pulled
+rain
+read
+reader
+real
+real
+remember
+river
+salt
+see
+settle
+should
+shoulder
+sleep
+sleep
+sleeping
+smoke
+smoke
+something
+something
+something
+sometimes
+stranded
+strange
+sun
+sunning
+symbology
+take
+teeth
+television
+tell
+tell
+the
+the
+the
+the
+the
+the
+them
+them
+them
+they
+this
+this
+though
+threw
+through
+to
+to
+to
+to
+to
+to
+to
+tunnel
+twenty
+two
+up
+wake
+want
+want
+want
+warm
+watch
+week
+when
+while
+will
+will
+will
+will
+wish
+with
+with
+with
+with
+write
+writer
+writer
+writer
+writer
+year
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+you
+your
+your
+your
+your
+your
+your
+yourself

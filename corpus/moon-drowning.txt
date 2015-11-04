@@ -1,44 +1,142 @@
----
-title: The Moon is drowning
-genre: verse
-
-id: moon-drowning
-toc: "The moon is drowning"
-
-project:
-    title: Stark Raving
-    class: stark
-    order: 3
-    next:
-    - title: Something about all music being performances of _4&prime;33&Prime;_ in places where other bands happen to be playing
-      link: music-433
-    - title: Worse looking over
-      link: worse-looking-over
-    prev:
-    - title: Something about the nature of poetry and time
-      link: poetry-time
-    - title: The Big Dipper
-      link: big-dipper
-...
-
-| [The moon is drowning][] the stars it pushes them
-| under into the darkness they cannot breathe
-| they are flailing the moon boasts to my shadow
-| how powerful is the moon how great its light
-
-| My shadow nods and calls the moon father though
-| it acknowledges also the existence of others
-| headlights are like little moons father my shadow says
-| they pass like waves in a dark ocean
-
-| Father moon becomes angry and threatens
-| I can maroon you shadow I can trap you in darkness
-| your strength comes from my own the little moons
-| are fleeting like foam on a darkened sea
-
-| My shadow fears the night as it fears death
-| but it remembers the moon's strength is from another
-| my shadow wants the headlights like an ocean
-| might want the moon as a seducer as a lover
-
-[The moon is drowning]: moongone.html
+a
+a
+a
+a
+acknowledges
+also
+an
+and
+and
+angry
+another
+are
+are
+are
+as
+as
+as
+becomes
+boasts
+breathe
+but
+calls
+can
+can
+cannot
+comes
+dark
+darkened
+darkness
+darkness
+death
+drowning
+drowning
+existence
+father
+father
+father
+fears
+fears
+flailing
+fleeting
+foam
+from
+from
+great
+headlights
+headlights
+how
+how
+i
+i
+in
+in
+into
+is
+is
+is
+is
+it
+it
+it
+it
+its
+light
+like
+like
+like
+like
+little
+little
+lover
+maroon
+might
+moon
+moon
+moon
+moon
+moon
+moon
+moon
+moon
+moons
+moons
+my
+my
+my
+my
+my
+my
+night
+nods
+ocean
+ocean
+of
+on
+others
+own
+pass
+powerful
+pushes
+remembers
+s
+says
+sea
+seducer
+shadow
+shadow
+shadow
+shadow
+shadow
+shadow
+stars
+strength
+strength
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+them
+they
+they
+they
+though
+threatens
+to
+trap
+under
+want
+wants
+waves
+you
+you
+your

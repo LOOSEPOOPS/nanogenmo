@@ -1,48 +1,177 @@
----
-title: Leg
-genre: prose
-
-id: leg
-toc: "Leg"
-
-project:
-    title: "Buildings out of air: Paul in the Woods"
-    class: paul
-    order: 12
-    next:
-    - title: Planks
-      link: planks
-    - title: Man
-      link: man
-    prev:
-    - title: Toilet
-      link: toilet
-    - title: Leaf
-      link: leaf
-...
-
-His first chair was a stool.
-It was an [uneven wobbly stool][] that would not support even forty pounds.
-"So my first chair is a broken stool" he said after nearly breaking his tailbone on the dirt floor.
-"Maybe I should start again but this time only with legs."
-He began again but this time only with legs.
-He built [one leg][], which means he cut a straight piece of wood down to four feet in length, whittled the bark off, and sanded it down smooth in what he was now calling his Woodworking Shack.
-He typed up a note on how to make chair legs.
-
-> MAKING CHAIR LEGS
->
-> 1. get longish piece of wood
-> 2. cut it to length ([4 feet][] I'd
->    recommend)
-> 3. whittle off bark
-> 4. sand smooth the leg
-
-After he tried remembered tried standing the leg up, failing, and after much thought realizing that the ends needed to be flat, he typed one more line on his notecard:
-
-> 5. make ends flat
-
-He had no tools with which to flatten the ends of his leg.
-
-[uneven wobbly stool]: stump.html
-[one leg]: i-think-its-you.html
-[4 feet]: boar.html
+4
+a
+a
+a
+a
+after
+after
+after
+again
+again
+an
+and
+and
+bark
+bark
+be
+began
+breaking
+broken
+built
+but
+but
+calling
+chair
+chair
+chair
+chair
+cut
+cut
+dirt
+down
+down
+ends
+ends
+ends
+even
+failing
+feet
+feet
+first
+first
+flat
+flat
+flatten
+floor
+forty
+four
+get
+had
+he
+he
+he
+he
+he
+he
+he
+he
+he
+his
+his
+his
+his
+his
+how
+i
+i
+in
+in
+is
+it
+it
+it
+leg
+leg
+leg
+leg
+leg
+legs
+legs
+legs
+legs
+length
+length
+line
+longish
+make
+make
+making
+maybe
+means
+more
+much
+my
+nearly
+needed
+no
+not
+note
+notecard
+now
+of
+of
+of
+off
+off
+on
+on
+on
+one
+one
+only
+only
+piece
+piece
+pounds
+realizing
+recommend
+remembered
+said
+sand
+sanded
+shack
+should
+smooth
+smooth
+so
+standing
+start
+stool
+stool
+stool
+straight
+support
+tailbone
+that
+that
+the
+the
+the
+the
+the
+the
+this
+this
+thought
+time
+time
+to
+to
+to
+to
+to
+tools
+tried
+tried
+typed
+typed
+uneven
+up
+up
+was
+was
+was
+what
+which
+which
+whittle
+whittled
+with
+with
+with
+wobbly
+wood
+wood
+woodworking
+would
+would

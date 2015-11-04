@@ -1,42 +1,135 @@
----
-title: Finding the Lion
-genre: verse
-
-id: finding-the-lion
-toc: "Finding the lion"
-
-project:
-    title: Autocento of the breakfast table
-    class: autocento
-...
-
-| Tonight, as I look up, the stars
-| hide themselves in shame.  [There is no moon][].
-| The sky is black, like my desk,
-
-| [nothing like a raven][].  The streetlights
-| look on the scene disinterested.
-| They have their own [small gossips of the dark][].
-
-| I came here to find the Lion, old
-| friend, but he will not show his flanks, his
-| paws, his shoulders, [his mane][].  I
-
-| can hear him laughing from his hiding-place
-| behind the moon, nonexistent, under
-| the cold dead earth.  The mountain is in front
-
-| of me now, a hole of stars daring me
-| to pierce it with my sight.  The lion's still
-| laughing; the streetlamps talk about
-
-| me amongst themselves, and go out.  There
-| never was any lion, they tell me.
-| [You only hear the wind][] [on the mountain][].
-
-[There is no moon]: moongone.html
-[nothing like a raven]: feedingtheraven.html
-[small gossips of the dark]: the-night-we-met.html
-[his mane]: axe.html
-[You only hear the wind]: cold-wind.html
-[on the mountain]: mountain.html
+a
+a
+about
+amongst
+and
+any
+as
+behind
+black
+but
+came
+can
+cold
+daring
+dark
+dead
+desk
+disinterested
+earth
+find
+finding
+flanks
+friend
+from
+front
+go
+gossips
+have
+he
+hear
+hear
+here
+hide
+hiding-place
+him
+his
+his
+his
+his
+his
+hole
+i
+i
+i
+in
+in
+is
+is
+is
+it
+laughing
+laughing
+like
+like
+lion
+lion
+lion
+lion
+look
+look
+mane
+me
+me
+me
+me
+moon
+moon
+mountain
+mountain
+my
+my
+never
+no
+nonexistent
+not
+nothing
+now
+of
+of
+of
+old
+on
+on
+only
+out
+own
+paws
+pierce
+raven
+s
+scene
+shame
+shoulders
+show
+sight
+sky
+small
+stars
+stars
+still
+streetlamps
+streetlights
+talk
+tell
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+their
+themselves
+themselves
+there
+there
+they
+they
+to
+to
+tonight
+under
+up
+was
+will
+wind
+with
+you
